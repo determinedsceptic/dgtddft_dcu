@@ -1,0 +1,1301 @@
+mpisize = 4096                
+mpirank = 0                   
+Time for reading the raw input file is 0.000278287 [s]
+
+UPF_File is not defined. 
+Use the old format of pseudopotential by defininig PeriodTable in the input file.
+This option will become deprecated in the future
+Time for reading the input file is 1.91036 [s]
+
+*********************************************************************
+Common information
+*********************************************************************
+
+Super cell                           = +7.559233712000e+00 +4.837909575500e+02 +9.675819150990e+02 
+Grid Wavefunction                    = 12                  704                 1536                
+Grid Density                         = 12                  704                 1536                
+Mixing dimension                     = 1                   
+Mixing variable                      = potential           
+Mixing DFT type                      = broyden             
+Mixing Hybrid DGDFT type             = broyden             
+Mixing Steplength                    = +3.000000000000e-01
+DG InnerSCF Mixing variable          = density             
+DG OuterSCF Mixing variable          = potential           
+DG DFT OuterSCF Tolerance            = +1.000000000000e-05
+DG DFT OuterSCF Energy Tolerance     =+1.000000000000e-05
+DG DFT OuterSCF MinIter              = 3                   
+DG DFT OuterSCF MaxIter              = 50                  
+DG DFT InnerSCF Tolerance            = +1.000000000000e-05
+DG DFT InnerSCF MinIter              = 1                   
+DG DFT InnerSCF MaxIter              = 1                   
+DG Hybrid InnerSCF Tolerance         = +1.000000000000e-04
+DG Hybrid InnerSCF MinIter           = 1                   
+DG Hybrid InnerSCF MaxIter           = 3                   
+DG Hybrid OuterSCF MinIter           = 3                   
+DG Hybrid OuterSCF MaxIter           = 30                  
+DG Hybrid OuterSCF Tolerance         = +1.000000000000e-06
+DG Hybrid OuterSCF Energy Tolerance  =+1.000000000000e-04
+DG Hybrid ALBs MaxIter               = 5                   
+DG Hybrid ALBs Tolerance             = +1.000000000000e-06
+Temperature                          = +1.000000000000e-01[K]   
+au2K                                 = +3.157746700000e+05
+Tbeta                                = +3.157746700000e+06
+Temperature2                          = +1.000000000000e-01[K]   
+Extra states                         = 0                   
+Smearing scheme                      = FD                  
+PeriodTable File                     = LiHHGH.bin          
+Pseudo Type                          = HGH                 
+PW Solver                            = LOBPCG              
+XC Type                              = XC_LDA_XC_TETER93   
+Hybrid ACE                           = true    
+Hybrid DF                            = false   
+DGHF ISDF                            = false   
+DGHF ISDF Num Mu                     = +6.000000000000e+00
+Hybrid Active Init                   = false   
+Hybrid Mixing Type                   = nested              
+Hybrid DF Num Mu                     = +6.000000000000e+00
+Hybrid DF Num GaussianRandom         = +2.000000000000e+00
+Hybrid DF Tolerance                  = +1.000000000000e-20
+SCF Outer Tol                        = +1.000000000000e-08
+SCF Outer MaxIter                    = 30                  
+SCF Free Energy Per Atom Tol         = +1.000000000000e-06
+Eig Min Tolerence                    = +1.000000000000e-03
+Eig Tolerence                        = +1.000000000000e-13
+Eig MaxIter                          = 1                   
+Eig Tolerance Dyn                    = false   
+Num unused state                     = 0                   
+EcutWavefunction                     = +1.000000000000e+01
+Density GridFactor                   = +1.000000000000e+00
+Use Atom Density                     = false   
+Use VLocal                           = false   
+RestartDensity                       = false   
+RestartWfn                           = false   
+OutputDensity                        = false   
+OutputPotential                      = false   
+Number of Extra Electron             = 0                   
+
+*********************************************************************
+DGDFT information
+*********************************************************************
+
+Penalty Alpha                        = +2.000000000000e+01
+Element size                         = 1                   32                  128                 
+Wfn Elem GridSize                    = 12                  22                  12                  
+Rho Elem GridSize                    = 12                  22                  12                  
+LGL Grid size                        = 12                  22                  12                  
+LGL GridFactor                       = +1.000000000000e+00
+SVD Basis Tol                        = +1.000000000000e-20
+SCF Inner Tol                        = +1.000000000000e-04
+SCF Inner MaxIter                    = 1                   
+Solution Method   = diag                
+Number of procs for ScaLAPACK        = 4096                
+Number of procs for ScaLAPACK (PW)   = 1                   
+ScaLAPACK block                      = 32                  
+OutputALBElemLGL                   = false   
+OutputALBElemUniform               = false   
+OutputWfnExtElem                   = false   
+OutputPotExtElem                   = false   
+OutputHMatrix                      = false   
+Force each step (deprecated)       = false   
+A Posteriori error each step       = false   
+
+NumAtom = 65536               
+Atom Type and Coordinates (possibly after shifting into unit cell)
+
+
+Time for setting up the periodic table is 0.189728674246 [s]
+
+ number of atoms in extended elements 144
+ numStateTotal 120
+XC_LDA_XC_TETER93  XCId = 20
+
+Number of electrons in extend element        = 144                 
+Number of Occupied States                    = 72                  
+Computing the local pseudopotential
+Sum of Pseudocharge                          = +4.870701063046e+02
+Number of Occupied States                    = 72                  
+After adjustment, Sum of Pseudocharge        = +1.440000000000e+02
+Computing the non-local pseudopotential
+Total number of nonlocal pseudopotential = 288                 
+Time for nonlocal pseudopotential 1.01369896857
+Time for setting up extended element is 1.40042706043 [s]
+
+localNz        = 1
+localNzStart   = 0
+numAllocLocal  = 18432
+numGridLocal   = 8448
+numGridTotal   = 12976128
+ numElem = 1 32 128 
+numGridLocal   = 3168
+numGridTotal   = 12976128
+ numGrid = 12 704 1536 
+ numGridElem = 12 22 12 
+  localNzStart 0
+  localNyStart 0
+  init complete 
+Time for Fourier grid weight = 
+Time for setting up Distributed Fourier is 2.4204313443 [s]
+Number of electrons in extend element        = 65536               
+Number of Occupied States                    = 32768               
+
+Prepare the integration weights for constructing the DG matrix.
+The number of atom < Rzero = 35
+
+Atomic pseudocharge computed.
+Sum of Pseudocharge                          = +2.216710172693e+05
+numOccupiedState                             = 32768               
+After adjustment, sum of Pseudocharge        = +6.553600000000e+04
+Time for setting up the DG Hamiltonian is 34.4565852457 [s]
+
+Generating initial density through linear combination of pseudocharges.
+Initial density. Sum of density      = +7.699968903669e+04
+Initial random basis functions in the extended element.
+Initial basis functions with random guess.
+Time for setting up SCFDG is 0.291182850953 [s]
+Regular DFT potential Calculations 
+call libxc for Exc -86936.4659042
+Time for calculating XC is 0.00133657944389 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0339422195684
+Time for calculating Hartree is 0.0350000942126 [s]
+
+Time for calculating Vtot is 0.000102615216747 [s]
+
+*********************************************************************
+Starting regular DGDFT SCF iteration.
+*********************************************************************
+
+
+*********************************************************************
+Outer SCF iteration # 1
+*********************************************************************
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.00656932941638
+OuterSCF:: Time for updating the local potential in the extended element and the element is 0.0107925347984 [s]
+
+ The current tolerance used by the eigensolver is 1e-13
+ The target number of converged eigenvectors is 120
+
+
+After 1 iterations, LOBPCG did not converge. 
+The maximum norm of the residual is 1.03270675183
+
+The minimum norm of the residual is 0.515432933967
+
+
+ Eigensolver time = 5.8632339742 [s]
+
+ALB calculation in extended element 0 0 0 
+
+ Max residual of basis = +1.032706751826e+00
+ Avg residual of basis = +5.294882521680e-01
+
+Time for interpolating basis = 0.289633794921 [s]
+Number of significant SVD basis = 120
+Time for SVD of basis = 0.0460029561073 [s]
+
+Time for generating ALB function is 6.22535002278 [s]
+
+
+ AlltoallForward: Changing distribution of local basis functions ...  Done. ( 0.000753099564463 s)  InnermixVariable_ density
+ mixType_ broyden
+
+Inner SCF iteration #1 starts.
+
+Time for constructing the DG matrix is 9.74068180751 [s]
+
+
+ Estimating the spectral bounds ... key  0 0 1 
+key  0 0 2 
+key  0 0 126 
+key  0 0 127 
+key  0 1 0 
+key  0 1 1 
+key  0 1 2 
+key  0 1 126 
+key  0 1 127 
+key  0 31 0 
+key  0 31 1 
+key  0 31 2 
+key  0 31 126 
+key  0 31 127 
+key 0 0 0 1 
+key 1 0 0 2 
+key 2 0 0 126 
+key 3 0 0 127 
+key 4 0 1 0 
+key 5 0 1 1 
+key 6 0 1 2 
+key 7 0 1 126 
+key 8 0 1 127 
+key 9 0 31 0 
+key 10 0 31 1 
+key 11 0 31 2 
+key 12 0 31 126 
+key 13 0 31 127 
+key  0 0 1 
+key  0 0 2 
+key  0 0 126 
+key  0 0 127 
+key  0 1 0 
+key  0 1 1 
+key  0 1 2 
+key  0 1 126 
+key  0 1 127 
+key  0 31 0 
+key  0 31 1 
+key  0 31 2 
+key  0 31 126 
+key  0 31 127 
+key 0 0 0 1 
+key 1 0 0 2 
+key 2 0 0 126 
+key 3 0 0 127 
+key 4 0 1 0 
+key 5 0 1 1 
+key 6 0 1 2 
+key 7 0 1 126 
+key 8 0 1 127 
+key 9 0 31 0 
+key 10 0 31 1 
+key 11 0 31 2 
+key 12 0 31 126 
+key 13 0 31 127 
+key  0 0 1 
+key  0 0 2 
+key  0 0 126 
+key  0 0 127 
+key  0 1 0 
+key  0 1 1 
+key  0 1 2 
+key  0 1 126 
+key  0 1 127 
+key  0 31 0 
+key  0 31 1 
+key  0 31 2 
+key  0 31 126 
+key  0 31 127 
+key 0 0 0 1 
+key 1 0 0 2 
+key 2 0 0 126 
+key 3 0 0 127 
+key 4 0 1 0 
+key 5 0 1 1 
+key 6 0 1 2 
+key 7 0 1 126 
+key 8 0 1 127 
+key 9 0 31 0 
+key 10 0 31 1 
+key 11 0 31 2 
+key 12 0 31 126 
+key 13 0 31 127 
+key  0 0 1 
+key  0 0 2 
+key  0 0 126 
+key  0 0 127 
+key  0 1 0 
+key  0 1 1 
+key  0 1 2 
+key  0 1 126 
+key  0 1 127 
+key  0 31 0 
+key  0 31 1 
+key  0 31 2 
+key  0 31 126 
+key  0 31 127 
+key 0 0 0 1 
+key 1 0 0 2 
+key 2 0 0 126 
+key 3 0 0 127 
+key 4 0 1 0 
+key 5 0 1 1 
+key 6 0 1 2 
+key 7 0 1 126 
+key 8 0 1 127 
+key 9 0 31 0 
+key 10 0 31 1 
+key 11 0 31 2 
+key 12 0 31 126 
+key 13 0 31 127 
+key  0 0 1 
+key  0 0 2 
+key  0 0 126 
+key  0 0 127 
+key  0 1 0 
+key  0 1 1 
+key  0 1 2 
+key  0 1 126 
+key  0 1 127 
+key  0 31 0 
+key  0 31 1 
+key  0 31 2 
+key  0 31 126 
+key  0 31 127 
+key 0 0 0 1 
+key 1 0 0 2 
+key 2 0 0 126 
+key 3 0 0 127 
+key 4 0 1 0 
+key 5 0 1 1 
+key 6 0 1 2 
+key 7 0 1 126 
+key 8 0 1 127 
+key 9 0 31 0 
+key 10 0 31 1 
+key 11 0 31 2 
+key 12 0 31 126 
+key 13 0 31 127 
+key  0 0 1 
+key  0 0 2 
+key  0 0 126 
+key  0 0 127 
+key  0 1 0 
+key  0 1 1 
+key  0 1 2 
+key  0 1 126 
+key  0 1 127 
+key  0 31 0 
+key  0 31 1 
+key  0 31 2 
+key  0 31 126 
+key  0 31 127 
+key 0 0 0 1 
+key 1 0 0 2 
+key 2 0 0 126 
+key 3 0 0 127 
+key 4 0 1 0 
+key 5 0 1 1 
+key 6 0 1 2 
+key 7 0 1 126 
+key 8 0 1 127 
+key 9 0 31 0 
+key 10 0 31 1 
+key 11 0 31 2 
+key 12 0 31 126 
+key 13 0 31 127 
+
+ Ritz values in estimator here : 6
+ 1.536583690103e+00 8.759059867220e+00 2.305032560690e+01 4.443075685428e+01 6.294757404746e+01 7.345533307059e+01
+
+ Upper bound of spectrum = 9.177799847210e+01
+ Done. ( 1.487143209670e-01 s.)
+ Initializing eigenvectors randomly on first SCF step ...  Done. ( 9.736182352062e-01 s.)
+
+ ------------------------------- 
+ First CheFSI step for DGDFT cycle 1 of 1 . 
+
+ Filtering the eigenvectors ... (Filter order = 1)
+ Chebyshev filtering : Process 0 working on 32768 of 32768 bands.
+ Chebyshev filtering : Lower bound = 3.749595838034e+01
+                     : Upper bound = 9.177799847210e+01
+                     : a_L = 1.536583690103e+00key  0 0 1 
+key  0 0 2 
+key  0 0 126 
+key  0 0 127 
+key  0 1 0 
+key  0 1 1 
+key  0 1 2 
+key  0 1 126 
+key  0 1 127 
+key  0 31 0 
+key  0 31 1 
+key  0 31 2 
+key  0 31 126 
+key  0 31 127 
+key 0 0 0 1 
+key 1 0 0 2 
+key 2 0 0 126 
+key 3 0 0 127 
+key 4 0 1 0 
+key 5 0 1 1 
+key 6 0 1 2 
+key 7 0 1 126 
+key 8 0 1 127 
+key 9 0 31 0 
+key 10 0 31 1 
+key 11 0 31 2 
+key 12 0 31 126 
+key 13 0 31 127 
+
+ Total filtering time for 1 filter steps = 1.397581769619e+00 s.
+ Average per filter step = 1.397581769619e+00 s.
+ Eigenvector block rebuild time = 1.393496105447e-02 s.
+ Filtering completed. ( 1.431243393803e+00 s.)
+
+ Solving subspace problems using ScaLAPACK ...
+ Setting up BLACS and ScaLAPACK Process Grid ... Done. ( 1.224950188771e-02 s.)
+ ScaLAPACK will use 4096 processes.
+ ScaLAPACK process grid = 64 * 64 .
+
+ Orthonormalization step : 
+ Distributed vector to ScaLAPACK format conversion ...  Done. ( 2.500314659206e+00 s.)
+ Orthonormalizing filtered vectors ... 
+ Overlap matrix computed in : 9.746842062334e+00 s.
+ Cholesky factorization computed in : 4.304544666549e+00 s.
+ TRSM computed in : 7.891505710548e+00 s.
+ Orthonormalization steps completed ( 2.194881442143e+01 s.)
+
+ ScaLAPACK to Distributed vector format conversion ...  Done. ( 2.452405449934e+00 s.)
+ Communicating orthonormalized filtered vectors ...  Done. ( 4.727160558105e-06 s.)
+
+ Computing H * X for filtered orthonormal vectors : key  0 0 1 
+key  0 0 2 
+key  0 0 126 
+key  0 0 127 
+key  0 1 0 
+key  0 1 1 
+key  0 1 2 
+key  0 1 126 
+key  0 1 127 
+key  0 31 0 
+key  0 31 1 
+key  0 31 2 
+key  0 31 126 
+key  0 31 127 
+key 0 0 0 1 
+key 1 0 0 2 
+key 2 0 0 126 
+key 3 0 0 127 
+key 4 0 1 0 
+key 5 0 1 1 
+key 6 0 1 2 
+key 7 0 1 126 
+key 8 0 1 127 
+key 9 0 31 0 
+key 10 0 31 1 
+key 11 0 31 2 
+key 12 0 31 126 
+key 13 0 31 127 
+
+ Hamiltonian times eigenvectors calculation time = 1.316270273877e+00 s.
+ Eigenvector block rebuild time = 1.402065902948e-02 s.
+ H * X for filtered orthonormal vectors computed . ( 1.341064000037e+00 s.)
+
+ Raleigh - Ritz step : 
+ Distributed vector to ScaLAPACK format conversion ...  Done. ( 2.502398367506e+00 s.)
+ Solving the subspace problem ... 
+ X^T(HX) computed in : 9.772006912855e+00 s.
+ Eigenvalue problem solved in : 9.088012942998e+01 s.
+ Subspace rotation step completed in : 6.694800037658e+00 s.
+ All subspace problem steps completed . ( 1.073532069828e+02 s.)
+
+ ScaLAPACK to Distributed vector format conversion ...  Done. ( 2.534463995136e+00 s.)
+ Communicating eigenvalues and eigenvectors ...  Done. ( 4.675704985857e-06 s.)
+ ------------------------------- 
+ This Chebyshev cycle took a total of 1.421086721625e+02 s.
+ ------------------------------- 
+
+ Total time for diag DG matrix via Chebyshev filtering is 1.432446089576e+02 [s]
+
+Call for Full DM After DIAG 
+InnerSCF: DIAG Time for computing full density matrix 1.432446089576e+02 [s]
+
+InnerSCF: Time for computing harris energy 7.756573380902e-03 [s]
+
+
+ Using alternate routine for electron density: 
+
+ Forming diagonal blocks of density matrix ...  Done. ( 5.295764771290e-02 s) 
+
+ Sum Rho on LGL grid (raw data) = +3.276800000000e+04
+ Sum Rho on uniform grid (interpolated) = +3.303146881088e+04
+
+InnerSCF: Time for computing density 1 in the global domain is 0.150015627965 [s]
+
+norm(MixDif)          = +1.338566579384e+03
+norm(MixOld)          = +1.340816301961e+03
+norm(out-in)/norm(in) = +9.983221246841e-01
+Time for computing the SCF residual is 0.00262636481784 [s]
+
+ broyden density mixing 
+InnerSCF: Time for mixing is 0.000925335800275 [s]
+
+Numer of Occupied State 32768               
+Rho factor after mixing (raw data) = +1.000000000000e+00
+Sum Rho after mixing (raw data)    = +6.553600000000e+04
+
+call libxc for Exc -58024.3723839
+Exc after DIAG -58024.3723839
+Time for computing Exc in the global domain is 0.00247204629704 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.036904285429
+InnerSCF: Time for computing Vhart in the global domain is 0.0380084170029 [s]
+
+InnerSCF: Time for computing KSEnergy in the global domain is 0.0096157065127 [s]
+
+
+EfreeHarris       = +3.338950505956e+05[au]  
+Etot              = +4.367580966146e+05[au]  
+Efree             = +4.367580966146e+05[au]  
+Ekin              = +3.942365780574e+05[au]  
+Ehart             = -1.974386769664e+05[au]  
+EVxc              = -7.646060519826e+04[au]  
+Exc               = -5.802437238388e+04[au]  
+EVdw              = +0.000000000000e+00[au]  
+Eself             = +1.733533912236e+05[au]  
+EIonSR            = +0.000000000000e+00[au]  
+Ecor              = +4.252151855721e+04[au]  
+Fermi             = +9.731262435539e+00[au]  
+HOMO#            = +2.648011407945e+02[eV]  
+Time for this inner SCF iteration = 153.278402903 [s]
+Time for all inner SCF iterations is 153.280074307 [s]
+
+OUTERSCF: EfreeHarris                 = +3.338950505956e+05
+OUTERSCF: Efree                       = +4.367580966146e+05
+OUTERSCF: norm(out-in)/norm(in) = +1.047762897616e+00
+OUTERSCF: Efree diff per atom   = +1.569565521530e+00
+
+Time for this SCF iteration = 159.528340371 [s]
+
+
+BasisLGLCpx: m: 3168n: 120
+
+
+Dx: -40621.5641062         Dy: -82191.7888423         Dz -39731.4214657          
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.518791
+ Time for computing Exc in the global domain is 0.00195040623657 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0334742453415
+ Time for computing Vhart in the global domain is 0.0345295732841 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.00593196856789
+ Time for updating the local potential in the extended element and the element is 0.0104695365299 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0333523154259 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15719.0149076
+ Time for computing Exc in the global domain is 0.00190840987489 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0345788917039
+ Time for computing Vhart in the global domain is 0.0356569457799 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.00539360428229
+ Time for updating the local potential in the extended element and the element is 0.0100600377191 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0352621914353 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.0224168
+ Time for computing Exc in the global domain is 0.00442194100469 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0350956122857
+ Time for computing Vhart in the global domain is 0.0361316471826 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0113553609699
+ Time for updating the local potential in the extended element and the element is 0.0175310210325 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0459108338691 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5174963
+ Time for computing Exc in the global domain is 0.00551102263853 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0388043811545
+ Time for computing Vhart in the global domain is 0.042417604709 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0470426119864
+ Time for updating the local potential in the extended element and the element is 0.0562674258836 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0399511393625 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5180102
+ Time for computing Exc in the global domain is 0.00334124988876 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0424020246137
+ Time for computing Vhart in the global domain is 0.0548214886803 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.02552066301
+ Time for updating the local potential in the extended element and the element is 0.0303557435982 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0365166775882 [s]
+
+Dx: -102857.825716         Dy: -330541.331644         Dz -352797.800444          
+
+*********************************************************************
+Energy
+*********************************************************************
+
+Time:  0  fs
+DensityTime:    26.3407439424  s
+Times Ham vector:  6.32177828741  s
+Times Update:   3.08727302239   s
+Times Dipole:   0.000945162260905   s
+Times Vext:     0.000786140328273   s
+Times Energy:   0  s
+Times Construct Ham:  0.622393709607   s
+NOTE:  Ecor  = Exc - EVxc - Ehart - Eself + Evdw
+       Etot  = Ekin + Ecor
+       Efree = Etot    + Entropy
+
+! EfreeHarris     = +3.338950505956e+05[au]  
+! Etot            = +1.188479326304e+07[ev]  
+! Efree           = +4.367580966146e+05[au]  
+! Evdw            = +0.000000000000e+00[au]  
+! Fermi           = +9.731262435539e+00[au]  
+
+ Time for RK4 a cycle = 38.213622079 s.
+
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5180102
+ Time for computing Exc in the global domain is 0.00192984100431 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.034967150772
+ Time for computing Vhart in the global domain is 0.0360681768507 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.00697605055757
+ Time for updating the local potential in the extended element and the element is 0.011668784311 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.035957407672 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15719.0137155
+ Time for computing Exc in the global domain is 0.00265983492136 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0404599711765
+ Time for computing Vhart in the global domain is 0.0415307541844 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.00730471755378
+ Time for updating the local potential in the extended element and the element is 0.0120209662709 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0377825167961 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.0204871
+ Time for computing Exc in the global domain is 0.00216951663606 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0331863465253
+ Time for computing Vhart in the global domain is 0.0344017124735 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0258755858522
+ Time for updating the local potential in the extended element and the element is 0.031265132362 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0416469795164 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.515157
+ Time for computing Exc in the global domain is 0.00197556824423 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0371687265579
+ Time for computing Vhart in the global domain is 0.0382444169372 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0240804385394
+ Time for updating the local potential in the extended element and the element is 0.0289459081832 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0347323967144 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5156707
+ Time for computing Exc in the global domain is 0.0096969709266 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0332090752199
+ Time for computing Vhart in the global domain is 0.0342687119264 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.00980101991445
+ Time for updating the local potential in the extended element and the element is 0.0281263866927 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0335201695561 [s]
+
+Dx: -102857.787446         Dy: -330539.432192         Dz -352794.137474          
+
+*********************************************************************
+Energy
+*********************************************************************
+
+Time:  2.4188843e-05  fs
+DensityTime:    25.821255032  s
+Times Ham vector:  5.23277841765  s
+Times Update:   3.08561160089   s
+Times Dipole:   0.00223707477562   s
+Times Vext:     0.000785555457696   s
+Times Energy:   0  s
+Times Construct Ham:  0.731737802038   s
+NOTE:  Ecor  = Exc - EVxc - Ehart - Eself + Evdw
+       Etot  = Ekin + Ecor
+       Efree = Etot    + Entropy
+
+! EfreeHarris     = +3.338950505956e+05[au]  
+! Etot            = +1.188479326304e+07[ev]  
+! Efree           = +4.367580966146e+05[au]  
+! Evdw            = +0.000000000000e+00[au]  
+! Fermi           = +9.731262435539e+00[au]  
+
+ Time for RK4 a cycle = 37.1287991537 s.
+
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5156707
+ Time for computing Exc in the global domain is 0.00198133243248 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0324168358929
+ Time for computing Vhart in the global domain is 0.0334960776381 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.00532820704393
+ Time for updating the local potential in the extended element and the element is 0.00988779286854 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0329708189238 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15719.0109676
+ Time for computing Exc in the global domain is 0.00204679858871 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0444749337621
+ Time for computing Vhart in the global domain is 0.0455853913445 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0145463356748
+ Time for updating the local potential in the extended element and the element is 0.0361900241114 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0610869005322 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.0170019
+ Time for computing Exc in the global domain is 0.00194808957167 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0444537855219
+ Time for computing Vhart in the global domain is 0.0455266314093 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.01683318289
+ Time for updating the local potential in the extended element and the element is 0.0227013803087 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0561544899829 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5112659
+ Time for computing Exc in the global domain is 0.00434900238179 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0449271893594
+ Time for computing Vhart in the global domain is 0.0460351067595 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.00658825202845
+ Time for updating the local potential in the extended element and the element is 0.0124237576965 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0561266585719 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5117794
+ Time for computing Exc in the global domain is 0.00340205081739 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0373524874449
+ Time for computing Vhart in the global domain is 0.0476841090713 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0231266301125
+ Time for updating the local potential in the extended element and the element is 0.0332245465834 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.046806786675 [s]
+
+Dx: -102857.723781         Dy: -330536.27251         Dz -352788.026678          
+
+*********************************************************************
+Energy
+*********************************************************************
+
+Time:  4.8377686e-05  fs
+DensityTime:    26.9204221359  s
+Times Ham vector:  5.71651526727  s
+Times Update:   3.0871578306   s
+Times Dipole:   0.00411480525509   s
+Times Vext:     0.00078509375453   s
+Times Energy:   0  s
+Times Construct Ham:  0.719286564039   s
+NOTE:  Ecor  = Exc - EVxc - Ehart - Eself + Evdw
+       Etot  = Ekin + Ecor
+       Efree = Etot    + Entropy
+
+! EfreeHarris     = +3.338950505956e+05[au]  
+! Etot            = +1.188479326304e+07[ev]  
+! Efree           = +4.367580966146e+05[au]  
+! Evdw            = +0.000000000000e+00[au]  
+! Fermi           = +9.731262435539e+00[au]  
+
+ Time for RK4 a cycle = 39.0806824046 s.
+
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5117794
+ Time for computing Exc in the global domain is 0.00629384140484 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0464387536049
+ Time for computing Vhart in the global domain is 0.0488382391632 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0247025694698
+ Time for updating the local potential in the extended element and the element is 0.0727081322111 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0439990691375 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15719.0066729
+ Time for computing Exc in the global domain is 0.0082381805405 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0354381098878
+ Time for computing Vhart in the global domain is 0.0372927552089 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0143520168494
+ Time for updating the local potential in the extended element and the element is 0.0202173476573 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0479734344408 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.0119699
+ Time for computing Exc in the global domain is 0.00726946187206 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0493100676686
+ Time for computing Vhart in the global domain is 0.0529059928376 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0360697263386
+ Time for updating the local potential in the extended element and the element is 0.0533237177879 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0568367273081 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.505834
+ Time for computing Exc in the global domain is 0.0027738364879 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0337030212395
+ Time for computing Vhart in the global domain is 0.0409796033055 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.02678043372
+ Time for updating the local potential in the extended element and the element is 0.0329456748441 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0528580208775 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5063474
+ Time for computing Exc in the global domain is 0.00193704525009 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0362262520939
+ Time for computing Vhart in the global domain is 0.0373092931695 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.00604880973697
+ Time for updating the local potential in the extended element and the element is 0.0108565222472 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0353483296931 [s]
+
+Dx: -102857.634886         Dy: -330531.860932         Dz -352779.469794          
+
+*********************************************************************
+Energy
+*********************************************************************
+
+Time:  7.2566529e-05  fs
+DensityTime:    27.0730809981  s
+Times Ham vector:  6.5566975791  s
+Times Update:   3.07966813911   s
+Times Dipole:   0.00230212369934   s
+Times Vext:     0.000783883733675   s
+Times Energy:   0  s
+Times Construct Ham:  0.811064955313   s
+NOTE:  Ecor  = Exc - EVxc - Ehart - Eself + Evdw
+       Etot  = Ekin + Ecor
+       Efree = Etot    + Entropy
+
+! EfreeHarris     = +3.338950505956e+05[au]  
+! Etot            = +1.188479326304e+07[ev]  
+! Efree           = +4.367580966146e+05[au]  
+! Evdw            = +0.000000000000e+00[au]  
+! Fermi           = +9.731262435539e+00[au]  
+
+ Time for RK4 a cycle = 39.48503767 s.
+
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -15718.5063474
+ Time for computing Exc in the global domain is 0.00213477225043 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0382786376867
+ Time for computing Vhart in the global domain is 0.0404984543566 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 31 0 
+key 6 0 31 1 
+key 7 0 31 127 
+
+Time Comm: 0.0321610118262
+ Time for updating the local potential in the extended element and the element is 0.0421161467675 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0391659608576 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 

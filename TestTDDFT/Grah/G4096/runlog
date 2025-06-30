@@ -1,0 +1,2054 @@
+dgdft -in [inFile]
+in:             Input file (default: config.yaml)
+clean WaveFunction Groud
+Reduce LocalBasis
+iterMax:50000000
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 157(vn58906, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 349(vn58940, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 353(vn58940, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 371(vn58943, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 450(vn58957, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 451(vn58957, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 617(vn58984, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 931(vn59037, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 933(vn59037, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 937(vn59038, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1005(vn59049, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1017(vn59051, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1019(vn59051, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 58(vn58889, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 59(vn58889, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 181(vn58912, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 185(vn58912, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 211(vn58917, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 232(vn58920, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 233(vn58920, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 253(vn58924, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 257(vn58924, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 258(vn58925, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 259(vn58925, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 309(vn58933, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 317(vn58934, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 386(vn58946, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 392(vn58947, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 395(vn58947, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 421(vn58952, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 424(vn58952, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 425(vn58952, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 433(vn58954, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 437(vn58954, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 442(vn58955, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 443(vn58955, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 469(vn58960, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 473(vn58960, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 540(vn58972, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 541(vn58972, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 545(vn58972, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 571(vn58977, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 573(vn58977, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 637(vn58988, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 641(vn58988, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 661(vn58992, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 665(vn58992, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 690(vn58997, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 691(vn58997, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 693(vn58997, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 695(vn58997, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 706(vn58999, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 707(vn58999, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 799(vn59015, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 801(vn59015, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 802(vn59015, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 803(vn59015, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 821(vn59018, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 829(vn59020, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 833(vn59020, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 835(vn59021, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 837(vn59021, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 865(vn59026, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 867(vn59026, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 869(vn59026, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 883(vn59029, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 904(vn59032, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 925(vn59036, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 929(vn59036, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 949(vn59040, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 953(vn59040, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1(vn58880, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 2(vn58880, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 3(vn58880, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 4(vn58880, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 5(vn58880, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 25(vn58884, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 26(vn58884, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 27(vn58884, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 28(vn58884, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 29(vn58884, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 129(vn58901, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 130(vn58901, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 131(vn58901, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 0(vn58880, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 456(vn58958, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 457(vn58958, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 458(vn58958, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 459(vn58958, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 460(vn58958, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 461(vn58958, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 594(vn58981, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 595(vn58981, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 596(vn58981, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 597(vn58981, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 598(vn58981, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 599(vn58981, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 763(vn59009, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 765(vn59009, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 766(vn59009, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 767(vn59009, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 61(vn58890, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 65(vn58890, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 954(vn59041, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 955(vn59041, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 956(vn59041, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 957(vn59041, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 958(vn59041, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 959(vn59041, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 121(vn58900, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 122(vn58900, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 123(vn58900, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 124(vn58900, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 125(vn58900, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 777(vn59011, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 778(vn59011, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 779(vn59011, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 537(vn58971, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 538(vn58971, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 539(vn58971, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 133(vn58902, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 135(vn58902, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 136(vn58902, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 137(vn58902, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 163(vn58907, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 165(vn58907, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 166(vn58907, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 167(vn58907, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 273(vn58927, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 274(vn58927, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 275(vn58927, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 360(vn58942, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 361(vn58942, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 362(vn58942, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 363(vn58942, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 364(vn58942, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 365(vn58942, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 153(vn58905, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 154(vn58905, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 155(vn58905, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 481(vn58962, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 483(vn58962, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 484(vn58962, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 485(vn58962, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 810(vn59017, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 811(vn59017, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 812(vn59017, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 813(vn59017, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 814(vn59017, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 815(vn59017, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 888(vn59030, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 889(vn59030, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 890(vn59030, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 891(vn59030, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 892(vn59030, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 893(vn59030, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 144(vn58904, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 145(vn58904, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 146(vn58904, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 149(vn58904, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 234(vn58921, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 235(vn58921, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 236(vn58921, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 237(vn58921, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 238(vn58921, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 239(vn58921, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 355(vn58941, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 357(vn58941, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 358(vn58941, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 359(vn58941, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 709(vn59000, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 712(vn59000, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 713(vn59000, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 872(vn59027, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 873(vn59027, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 874(vn59027, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 875(vn59027, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 921(vn59035, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 922(vn59035, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 923(vn59035, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 373(vn58944, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 376(vn58944, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 377(vn58944, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 492(vn58964, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 493(vn58964, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 494(vn58964, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 495(vn58964, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 496(vn58964, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 497(vn58964, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 750(vn59007, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 751(vn59007, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 752(vn59007, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 753(vn59007, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 754(vn59007, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 755(vn59007, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 169(vn58910, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 170(vn58910, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 171(vn58910, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 172(vn58910, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 173(vn58910, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 344(vn58939, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 345(vn58939, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 346(vn58939, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 347(vn58939, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 523(vn58969, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 524(vn58969, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 525(vn58969, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 526(vn58969, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 527(vn58969, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 553(vn58974, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 554(vn58974, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 555(vn58974, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 556(vn58974, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 557(vn58974, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 697(vn58998, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 698(vn58998, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 699(vn58998, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 701(vn58998, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 968(vn59043, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 969(vn59043, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 970(vn59043, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 971(vn59043, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 49(vn58888, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 50(vn58888, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 51(vn58888, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 52(vn58888, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 53(vn58888, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 445(vn58956, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 449(vn58956, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 606(vn58983, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 607(vn58983, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 608(vn58983, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 609(vn58983, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 610(vn58983, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 611(vn58983, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 770(vn59010, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 771(vn59010, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 772(vn59010, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 773(vn59010, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 985(vn59046, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 986(vn59046, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 987(vn59046, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 988(vn59046, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 989(vn59046, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 108(vn58898, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 109(vn58898, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 110(vn58898, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 111(vn58898, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 112(vn58898, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 113(vn58898, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 249(vn58923, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 250(vn58923, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 251(vn58923, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 744(vn59006, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 746(vn59006, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 747(vn59006, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 748(vn59006, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 749(vn59006, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 825(vn59019, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 826(vn59019, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 827(vn59019, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 9(vn58881, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 10(vn58881, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 11(vn58881, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 276(vn58928, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 277(vn58928, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 278(vn58928, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 279(vn58928, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 280(vn58928, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 281(vn58928, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 378(vn58945, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 379(vn58945, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 381(vn58945, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 382(vn58945, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 383(vn58945, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 396(vn58948, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 397(vn58948, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 398(vn58948, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 399(vn58948, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 400(vn58948, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 401(vn58948, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 427(vn58953, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 428(vn58953, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 429(vn58953, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 430(vn58953, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 431(vn58953, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 498(vn58965, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 499(vn58965, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 500(vn58965, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 501(vn58965, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 502(vn58965, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 503(vn58965, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 675(vn58994, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 676(vn58994, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 677(vn58994, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 805(vn59016, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 808(vn59016, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 809(vn59016, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 846(vn59023, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 847(vn59023, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 848(vn59023, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 849(vn59023, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 850(vn59023, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 851(vn59023, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 912(vn59034, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 913(vn59034, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 915(vn59034, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 916(vn59034, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 917(vn59034, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 31(vn58885, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 33(vn58885, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 34(vn58885, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 35(vn58885, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 193(vn58914, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 194(vn58914, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 195(vn58914, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 196(vn58914, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 197(vn58914, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 289(vn58930, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 290(vn58930, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 291(vn58930, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 292(vn58930, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 293(vn58930, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 325(vn58936, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 326(vn58936, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 328(vn58936, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 329(vn58936, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 330(vn58937, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 331(vn58937, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 332(vn58937, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 333(vn58937, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 334(vn58937, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 335(vn58937, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 488(vn58963, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 490(vn58963, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 491(vn58963, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 632(vn58987, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 633(vn58987, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 634(vn58987, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 635(vn58987, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 654(vn58991, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 655(vn58991, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 656(vn58991, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 657(vn58991, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 658(vn58991, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 659(vn58991, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 942(vn59039, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 943(vn59039, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 944(vn59039, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 945(vn59039, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 946(vn59039, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 947(vn59039, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 972(vn59044, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 973(vn59044, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 974(vn59044, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 975(vn59044, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 976(vn59044, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 977(vn59044, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 66(vn58891, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 67(vn58891, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 69(vn58891, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 70(vn58891, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 71(vn58891, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 174(vn58911, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 175(vn58911, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 177(vn58911, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 178(vn58911, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 179(vn58911, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 403(vn58949, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 405(vn58949, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 406(vn58949, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 407(vn58949, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 528(vn58970, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 529(vn58970, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 530(vn58970, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 531(vn58970, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 532(vn58970, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 533(vn58970, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 586(vn58979, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 587(vn58979, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 786(vn59013, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 787(vn59013, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 788(vn59013, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 789(vn59013, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 790(vn59013, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 791(vn59013, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 990(vn59047, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 991(vn59047, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 992(vn59047, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 993(vn59047, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 994(vn59047, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 995(vn59047, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 204(vn58916, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 205(vn58916, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 206(vn58916, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 207(vn58916, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 208(vn58916, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 209(vn58916, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 282(vn58929, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 283(vn58929, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 284(vn58929, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 285(vn58929, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 286(vn58929, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 287(vn58929, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 577(vn58978, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 578(vn58978, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 579(vn58978, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 580(vn58978, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 581(vn58978, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 618(vn58985, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 619(vn58985, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 620(vn58985, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 621(vn58985, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 622(vn58985, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 623(vn58985, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 739(vn59005, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 741(vn59005, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 742(vn59005, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 743(vn59005, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 853(vn59024, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 856(vn59024, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 857(vn59024, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 997(vn59048, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1000(vn59048, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1001(vn59048, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1010(vn59050, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1011(vn59050, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1012(vn59050, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1013(vn59050, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 73(vn58892, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 74(vn58892, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 75(vn58892, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 76(vn58892, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 77(vn58892, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 336(vn58938, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 337(vn58938, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 338(vn58938, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 339(vn58938, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 340(vn58938, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 341(vn58938, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 474(vn58961, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 475(vn58961, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 477(vn58961, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 478(vn58961, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 479(vn58961, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 558(vn58975, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 559(vn58975, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 561(vn58975, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 562(vn58975, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 563(vn58975, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 624(vn58986, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 625(vn58986, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 626(vn58986, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 627(vn58986, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 628(vn58986, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 629(vn58986, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 733(vn59004, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 737(vn59004, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 139(vn58903, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 140(vn58903, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 141(vn58903, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 142(vn58903, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 143(vn58903, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 186(vn58913, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 187(vn58913, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 188(vn58913, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 189(vn58913, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 190(vn58913, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 191(vn58913, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 300(vn58932, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 301(vn58932, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 302(vn58932, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 303(vn58932, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 304(vn58932, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 305(vn58932, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 721(vn59002, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 722(vn59002, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 723(vn59002, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 724(vn59002, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 725(vn59002, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 200(vn58915, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 201(vn58915, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 202(vn58915, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 203(vn58915, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 409(vn58950, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 410(vn58950, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 411(vn58950, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 412(vn58950, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 413(vn58950, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 462(vn58959, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 463(vn58959, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 467(vn58959, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 547(vn58973, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 549(vn58973, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 550(vn58973, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 551(vn58973, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 684(vn58996, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 685(vn58996, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 686(vn58996, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 687(vn58996, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 688(vn58996, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 689(vn58996, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 242(vn58922, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 243(vn58922, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 244(vn58922, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 245(vn58922, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 514(vn58967, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 515(vn58967, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 651(vn58990, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 652(vn58990, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 653(vn58990, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 714(vn59001, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 715(vn59001, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 716(vn59001, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 717(vn59001, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 718(vn59001, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 719(vn59001, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 18(vn58883, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 19(vn58883, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 20(vn58883, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 21(vn58883, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 22(vn58883, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 23(vn58883, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 42(vn58887, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 43(vn58887, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 44(vn58887, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 45(vn58887, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 46(vn58887, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 47(vn58887, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 12(vn58882, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 13(vn58882, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 14(vn58882, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 16(vn58882, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 17(vn58882, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 603(vn58982, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 604(vn58982, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 605(vn58982, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 642(vn58989, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 643(vn58989, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 645(vn58989, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 646(vn58989, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 647(vn58989, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 793(vn59014, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 794(vn59014, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 795(vn59014, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 796(vn59014, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 797(vn59014, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 979(vn59045, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 981(vn59045, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 982(vn59045, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 983(vn59045, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 414(vn58951, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 415(vn58951, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 416(vn58951, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 417(vn58951, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 418(vn58951, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 419(vn58951, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 680(vn58995, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 681(vn58995, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 682(vn58995, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 683(vn58995, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 223(vn58919, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 224(vn58919, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 225(vn58919, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 226(vn58919, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 227(vn58919, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 588(vn58980, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 589(vn58980, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 590(vn58980, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 591(vn58980, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 592(vn58980, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 593(vn58980, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 321(vn58935, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 322(vn58935, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 323(vn58935, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 729(vn59003, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 730(vn59003, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 731(vn59003, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 217(vn58918, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 218(vn58918, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 219(vn58918, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 220(vn58918, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 221(vn58918, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 517(vn58968, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 521(vn58968, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 907(vn59033, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 908(vn59033, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 909(vn59033, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 910(vn59033, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 911(vn59033, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 876(vn59028, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 877(vn59028, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 878(vn59028, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 879(vn59028, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 880(vn59028, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 881(vn59028, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 96(vn58896, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 97(vn58896, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 98(vn58896, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 99(vn58896, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 100(vn58896, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 101(vn58896, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 37(vn58886, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 40(vn58886, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 41(vn58886, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 897(vn59031, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 898(vn59031, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 899(vn59031, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 780(vn59012, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 781(vn59012, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 782(vn59012, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 783(vn59012, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 784(vn59012, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 785(vn59012, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 78(vn58893, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 79(vn58893, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 80(vn58893, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 81(vn58893, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 82(vn58893, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 83(vn58893, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 505(vn58966, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 507(vn58966, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 508(vn58966, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 509(vn58966, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 858(vn59025, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 859(vn59025, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 860(vn59025, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 861(vn59025, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 862(vn59025, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 863(vn59025, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 104(vn58897, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 105(vn58897, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 106(vn58897, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 107(vn58897, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 841(vn59022, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 842(vn59022, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 843(vn59022, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 844(vn59022, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 845(vn59022, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 961(vn59042, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 962(vn59042, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 963(vn59042, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 964(vn59042, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 965(vn59042, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 267(vn58926, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 268(vn58926, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 269(vn58926, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1020(vn58782, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 1021(vn58782, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1022(vn58782, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1023(vn58782, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 84(vn58894, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 86(vn58894, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 87(vn58894, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 88(vn58894, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 89(vn58894, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 90(vn58895, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 91(vn58895, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 92(vn58895, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 93(vn58895, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 94(vn58895, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 95(vn58895, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 114(vn58899, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 115(vn58899, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 116(vn58899, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 117(vn58899, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 118(vn58899, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 119(vn58899, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 156(vn58906, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 158(vn58906, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 159(vn58906, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 160(vn58906, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 161(vn58906, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 252(vn58924, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 254(vn58924, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 255(vn58924, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 256(vn58924, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 294(vn58931, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 295(vn58931, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 296(vn58931, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 297(vn58931, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 298(vn58931, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 299(vn58931, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 306(vn58933, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 308(vn58933, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 310(vn58933, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 311(vn58933, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 312(vn58934, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 313(vn58934, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 314(vn58934, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 315(vn58934, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 316(vn58934, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 350(vn58940, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 351(vn58940, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 352(vn58940, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 366(vn58943, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 367(vn58943, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 368(vn58943, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 369(vn58943, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 370(vn58943, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 452(vn58957, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 453(vn58957, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 455(vn58957, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 564(vn58976, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 566(vn58976, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 567(vn58976, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 568(vn58976, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 569(vn58976, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 612(vn58984, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 613(vn58984, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 614(vn58984, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 615(vn58984, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 616(vn58984, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 666(vn58993, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 667(vn58993, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 668(vn58993, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 669(vn58993, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 670(vn58993, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 671(vn58993, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 756(vn59008, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 758(vn59008, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 759(vn59008, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 760(vn59008, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 761(vn59008, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 930(vn59037, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 934(vn59037, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 935(vn59037, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 936(vn59038, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 938(vn59038, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 939(vn59038, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 940(vn59038, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 941(vn59038, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1014(vn59051, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1015(vn59051, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1016(vn59051, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1018(vn59051, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 54(vn58889, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 55(vn58889, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 56(vn58889, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 57(vn58889, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 85(vn58894, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 180(vn58912, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 182(vn58912, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 183(vn58912, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 184(vn58912, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 210(vn58917, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 212(vn58917, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 213(vn58917, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 214(vn58917, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 215(vn58917, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 228(vn58920, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 229(vn58920, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 230(vn58920, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 231(vn58920, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 260(vn58925, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 261(vn58925, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 262(vn58925, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 263(vn58925, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 307(vn58933, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 348(vn58940, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 384(vn58946, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 385(vn58946, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 387(vn58946, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 388(vn58946, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 389(vn58946, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 390(vn58947, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 391(vn58947, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 393(vn58947, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 394(vn58947, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 420(vn58952, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 422(vn58952, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 423(vn58952, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 432(vn58954, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 434(vn58954, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 435(vn58954, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 436(vn58954, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 438(vn58955, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 439(vn58955, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 454(vn58957, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 468(vn58960, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 470(vn58960, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 471(vn58960, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 472(vn58960, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 542(vn58972, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 543(vn58972, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 544(vn58972, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 565(vn58976, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 570(vn58977, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 572(vn58977, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 574(vn58977, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 575(vn58977, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 636(vn58988, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 638(vn58988, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 639(vn58988, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 640(vn58988, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 660(vn58992, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 663(vn58992, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 664(vn58992, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 692(vn58997, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 694(vn58997, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 702(vn58999, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 703(vn58999, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 704(vn58999, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 705(vn58999, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 757(vn59008, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 798(vn59015, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 800(vn59015, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 816(vn59018, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 817(vn59018, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 818(vn59018, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 820(vn59018, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 828(vn59020, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 830(vn59020, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 831(vn59020, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 832(vn59020, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 834(vn59021, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 836(vn59021, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 838(vn59021, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 839(vn59021, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 864(vn59026, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 866(vn59026, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 868(vn59026, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 884(vn59029, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 885(vn59029, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 886(vn59029, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 887(vn59029, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 900(vn59032, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 901(vn59032, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 902(vn59032, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 903(vn59032, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 905(vn59032, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 924(vn59036, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 926(vn59036, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 927(vn59036, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 928(vn59036, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 932(vn59037, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 948(vn59040, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 950(vn59040, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 951(vn59040, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 952(vn59040, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 1002(vn59049, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1003(vn59049, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1006(vn59049, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1007(vn59049, CG5): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 24(vn58884, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 126(vn58901, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 127(vn58901, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 128(vn58901, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 440(vn58955, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 441(vn58955, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 662(vn58992, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 819(vn59018, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 882(vn59029, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[31m[1m  SWCH Error: MYID = 1004(vn59049, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 60(vn58890, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 62(vn58890, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 63(vn58890, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 64(vn58890, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 120(vn58900, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 762(vn59009, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 764(vn59009, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 774(vn59011, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 775(vn59011, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 776(vn59011, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 270(vn58927, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 271(vn58927, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 272(vn58927, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 132(vn58902, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 134(vn58902, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 150(vn58905, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 151(vn58905, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 152(vn58905, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 162(vn58907, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 164(vn58907, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 354(vn58941, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 356(vn58941, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 480(vn58962, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 482(vn58962, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 534(vn58971, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 535(vn58971, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 536(vn58971, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 372(vn58944, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 374(vn58944, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 375(vn58944, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 696(vn58998, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 700(vn58998, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 918(vn59035, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 919(vn59035, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 920(vn59035, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 147(vn58904, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 148(vn58904, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 708(vn59000, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 710(vn59000, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 711(vn59000, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 870(vn59027, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 871(vn59027, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 745(vn59006, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 48(vn58888, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 168(vn58910, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 246(vn58923, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 247(vn58923, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 248(vn58923, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 342(vn58939, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 343(vn58939, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 444(vn58956, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 446(vn58956, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 447(vn58956, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 448(vn58956, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 522(vn58969, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 552(vn58974, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 768(vn59010, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 769(vn59010, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 966(vn59043, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 967(vn59043, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 984(vn59046, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 6(vn58881, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 7(vn58881, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 8(vn58881, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 380(vn58945, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 426(vn58953, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 672(vn58994, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 673(vn58994, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 674(vn58994, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 804(vn59016, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 806(vn59016, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 807(vn59016, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 822(vn59019, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 823(vn59019, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 824(vn59019, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 914(vn59034, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 192(vn58914, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 324(vn58936, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 327(vn58936, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 402(vn58949, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 404(vn58949, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 486(vn58963, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 487(vn58963, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 489(vn58963, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 630(vn58987, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 631(vn58987, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 30(vn58885, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 32(vn58885, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 288(vn58930, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 68(vn58891, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 176(vn58911, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 582(vn58979, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 583(vn58979, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 584(vn58979, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 585(vn58979, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 738(vn59005, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 740(vn59005, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 852(vn59024, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 854(vn59024, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 855(vn59024, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1008(vn59050, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 1009(vn59050, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 576(vn58978, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 732(vn59004, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 734(vn59004, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 735(vn59004, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 736(vn59004, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 996(vn59048, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 998(vn59048, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 999(vn59048, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 138(vn58903, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 464(vn58959, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 465(vn58959, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 466(vn58959, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 476(vn58961, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 560(vn58975, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 720(vn59002, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 72(vn58892, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 240(vn58922, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 241(vn58922, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 510(vn58967, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 511(vn58967, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 512(vn58967, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 513(vn58967, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 546(vn58973, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 548(vn58973, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 648(vn58990, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 649(vn58990, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 650(vn58990, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 198(vn58915, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 199(vn58915, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 408(vn58950, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 15(vn58882, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 600(vn58982, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 601(vn58982, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 602(vn58982, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 644(vn58989, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 792(vn59014, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 978(vn59045, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 980(vn59045, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 216(vn58918, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 222(vn58919, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 318(vn58935, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 319(vn58935, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 320(vn58935, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 678(vn58995, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 679(vn58995, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 726(vn59003, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 727(vn59003, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 728(vn59003, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 516(vn58968, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 518(vn58968, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 519(vn58968, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 520(vn58968, CG4): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 906(vn59033, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 36(vn58886, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 38(vn58886, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 39(vn58886, CG3): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 894(vn59031, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 895(vn59031, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 896(vn59031, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 102(vn58897, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 103(vn58897, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 504(vn58966, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 506(vn58966, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 840(vn59022, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 960(vn59042, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 264(vn58926, CG0): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 265(vn58926, CG1): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+Fatal error in PMPI_Comm_split: Other MPI error
+[31m[1m  SWCH Error: MYID = 266(vn58926, CG2): calling MPID_Abort!!!: <MPID_Abort()@src/mpid/ch3/src/mpid_abort.c:96>. [0m
+[6725382 ## 2025-01-26/18:04:13] receive request of kill job(bkill).

@@ -1,0 +1,165 @@
+dgdft -in [inFile]
+in:             Input file (default: config.yaml)
+clean WaveFunction Groud
+Reduce LocalBasis
+iterMax:50000000
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xd2e, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x1c6, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x61b, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xcfb, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x26f, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 81, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xe51, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 81, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xece, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 81, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x119, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 81, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xce4, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 78, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x22a, src_guid = 0x8e0, dst_guid = 0x408e2, dst_cpu = 2275
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 78, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xa9e, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x4a2, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xbe0, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x67d, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 85, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x2a5, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 85, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x1d1, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 85, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x49f, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x41a, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 85, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x2a2, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xc95, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x72a, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x30c, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x132, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 86, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x6c7, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 78, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x6fc, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 78, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x1a, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 85, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x2ed, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x31a, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x899, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x484, src_guid = 0x8e0, dst_guid = 0x408e2, dst_cpu = 2275
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 79, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x5ed, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 79, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x79f, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 79, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xba2, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 79, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x4ce, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 79, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xc0b, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xbc7, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:06] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x2e3, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:08] resend wqe, sqn = 81, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xbda, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:08] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x28a, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:08] resend wqe, sqn = 83, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x436, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:08] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x430, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 84, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x970, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 78, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xff6, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 81, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x1bd, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 85, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x689, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x52b, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x720, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 86, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xad8, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x997, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xca3, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 80, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xe14, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x90c, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x152, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 85, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xcd, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 85, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x50b, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 85, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x1b, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:22] resend wqe, sqn = 85, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x33d, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xac5, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 81, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x38b, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x867, src_guid = 0x8e0, dst_guid = 0x408e2, dst_cpu = 2275
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x968, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 83, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xaf6, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 83, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xfaa, src_guid = 0x8e0, dst_guid = 0x9d2, dst_cpu = 2514
+WARN: [vn002272] received duplicat pkts, rqn = 74, src_node_guid = 0x8e0, src_sqn = 81, win_msn = 0x8035c627, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 77, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x835, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 77, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xa50, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 77, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x9d2, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 77, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xde8, src_guid = 0x8e0, dst_guid = 0x40978, dst_cpu = 2425
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 77, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x21a, src_guid = 0x8e0, dst_guid = 0x40a98, dst_cpu = 2713
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 81, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x170, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 78, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x6b1, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 78, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xe81, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 78, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x678, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 78, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x286, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 78, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xbc2, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002275] received duplicat pkts, rqn = 61, src_node_guid = 0x8e0, src_sqn = 82, win_msn = 0x81350001, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002425] received duplicat pkts, rqn = 113, src_node_guid = 0x8e0, src_sqn = 77, win_msn = 0x80350e5f, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002713] received duplicat pkts, rqn = 61, src_node_guid = 0x8e0, src_sqn = 77, win_msn = 0x80350d2a, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002514] received duplicat pkts, rqn = 74, src_node_guid = 0x8e0, src_sqn = 83, win_msn = 0x80350dd6, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002270] received duplicat pkts, rqn = 48, src_node_guid = 0x8e0, src_sqn = 78, win_msn = 0x8135004e, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002270] received duplicat pkts, rqn = 87, src_node_guid = 0x8e0, src_sqn = 77, win_msn = 0x80350d0b, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002270] received duplicat pkts, rqn = 113, src_node_guid = 0x8e0, src_sqn = 79, win_msn = 0x81350029, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002271] received duplicat pkts, rqn = 61, src_node_guid = 0x8e0, src_sqn = 77, win_msn = 0x80350d7b, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002271] received duplicat pkts, rqn = 100, src_node_guid = 0x8e0, src_sqn = 78, win_msn = 0x80350c6b, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002271] received duplicat pkts, rqn = 100, src_node_guid = 0x8e0, src_sqn = 86, win_msn = 0x81350a40, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x923, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x7df, src_guid = 0x8e0, dst_guid = 0x95a, dst_cpu = 2394
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xe0e, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xfa3, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xc27, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xc19, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x91b, src_guid = 0x8e0, dst_guid = 0x91a, dst_cpu = 2330
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x6be, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x286, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 62, wrid = 0xd2e, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x30e, src_guid = 0x8e0, dst_guid = 0x910, dst_cpu = 2320
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 62, wrid = 0x1c6, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 62, wrid = 0x61b, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 87, status = 0x1, opcode = 0x18, retry_cnt = 62, wrid = 0xcfb, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 86, status = 0x1, opcode = 0xa, retry_cnt = 62, wrid = 0x6c7, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x401, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xa23, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x14b, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x5f7, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xacb, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 62, wrid = 0x2e3, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 62, wrid = 0x26f, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xcc1, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x42e, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] received duplicat pkts, rqn = 74, src_node_guid = 0x8e0, src_sqn = 80, win_msn = 0x80352079, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002272] received duplicat pkts, rqn = 74, src_node_guid = 0x8e0, src_sqn = 81, win_msn = 0x8035c627, len = 128, imm_data = 0, retry_cnt = 61, ft_mask = 0
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x7fc, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] received duplicat pkts, rqn = 87, src_node_guid = 0x8e0, src_sqn = 84, win_msn = 0x80352077, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002272] received duplicat pkts, rqn = 87, src_node_guid = 0x8e0, src_sqn = 79, win_msn = 0x80351b63, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 78, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x79d, src_guid = 0x8e0, dst_guid = 0x408e0, dst_cpu = 2273
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 78, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x5b4, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 81, status = 0x1, opcode = 0x18, retry_cnt = 62, wrid = 0xe51, src_guid = 0x8e0, dst_guid = 0x8e0, dst_cpu = 2272
+WARN: [vn002272] received duplicat pkts, rqn = 100, src_node_guid = 0x8e0, src_sqn = 86, win_msn = 0x80351af8, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002272] received duplicat pkts, rqn = 100, src_node_guid = 0x8e0, src_sqn = 83, win_msn = 0x8035b07e, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 48, src_node_guid = 0x8e0, src_sqn = 87, win_msn = 0x80350d8b, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 48, src_node_guid = 0x8e0, src_sqn = 78, win_msn = 0x8035f7d4, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 61, src_node_guid = 0x8e0, src_sqn = 88, win_msn = 0x8035120f, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 61, src_node_guid = 0x8e0, src_sqn = 82, win_msn = 0x80350b7f, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 61, src_node_guid = 0x8e0, src_sqn = 79, win_msn = 0x8035195b, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 74, src_node_guid = 0x8e0, src_sqn = 86, win_msn = 0x80351903, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 74, src_node_guid = 0x8e0, src_sqn = 81, win_msn = 0x80357ae3, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 74, src_node_guid = 0x8e0, src_sqn = 87, win_msn = 0x803507d9, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 87, src_node_guid = 0x8e0, src_sqn = 85, win_msn = 0x80351984, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 87, src_node_guid = 0x8e0, src_sqn = 88, win_msn = 0x803509c2, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 87, src_node_guid = 0x8e0, src_sqn = 79, win_msn = 0x803510d4, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 100, src_node_guid = 0x8e0, src_sqn = 78, win_msn = 0x8035182c, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 113, src_node_guid = 0x8e0, src_sqn = 79, win_msn = 0x80351816, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002273] received duplicat pkts, rqn = 113, src_node_guid = 0x8e0, src_sqn = 79, win_msn = 0x81350002, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002274] received duplicat pkts, rqn = 48, src_node_guid = 0x8e0, src_sqn = 81, win_msn = 0x8035773b, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002274] received duplicat pkts, rqn = 100, src_node_guid = 0x8e0, src_sqn = 83, win_msn = 0x80351042, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002320] received duplicat pkts, rqn = 48, src_node_guid = 0x8e0, src_sqn = 86, win_msn = 0x80350f5c, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002330] received duplicat pkts, rqn = 100, src_node_guid = 0x8e0, src_sqn = 86, win_msn = 0x80350fc0, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 85, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xdcf, src_guid = 0x8e0, dst_guid = 0x408e2, dst_cpu = 2275
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x6b2, src_guid = 0x8e0, dst_guid = 0x8e2, dst_cpu = 2274
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 85, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x170, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 85, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x391, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 62, wrid = 0x4a2, src_guid = 0x8e0, dst_guid = 0x408de, dst_cpu = 2271
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 62, wrid = 0xbe0, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] [2025-01-25 05:14:23] resend wqe, sqn = 88, status = 0x1, opcode = 0x18, retry_cnt = 62, wrid = 0x67d, src_guid = 0x8e0, dst_guid = 0x8de, dst_cpu = 2270
+WARN: [vn002272] received duplicat pkts, rqn = 113, src_node_guid = 0x8e0, src_sqn = 79, win_msn = 0x80351028, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002271] received duplicat pkts, rqn = 87, src_node_guid = 0x8e0, src_sqn = 77, win_msn = 0x80350d37, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002271] received duplicat pkts, rqn = 113, src_node_guid = 0x8e0, src_sqn = 82, win_msn = 0x80351341, len = 128, imm_data = 0, retry_cnt = 61, ft_mask = 0
+WARN: [vn002274] received duplicat pkts, rqn = 48, src_node_guid = 0x8e0, src_sqn = 86, win_msn = 0x813501a7, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002274] received duplicat pkts, rqn = 74, src_node_guid = 0x8e0, src_sqn = 86, win_msn = 0x81350044, len = 12, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002274] received duplicat pkts, rqn = 87, src_node_guid = 0x8e0, src_sqn = 79, win_msn = 0x8135018e, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002274] received duplicat pkts, rqn = 100, src_node_guid = 0x8e0, src_sqn = 87, win_msn = 0x80357238, len = 128, imm_data = 0, retry_cnt = 61, ft_mask = 0
+WARN: [vn002271] received duplicat pkts, rqn = 113, src_node_guid = 0x8e0, src_sqn = 85, win_msn = 0x81350035, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002274] received duplicat pkts, rqn = 61, src_node_guid = 0x8e0, src_sqn = 88, win_msn = 0x80350997, len = 128, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002271] received duplicat pkts, rqn = 87, src_node_guid = 0x8e0, src_sqn = 88, win_msn = 0x8035116d, len = 128, imm_data = 0, retry_cnt = 61, ft_mask = 0
+WARN: [vn002270] received duplicat pkts, rqn = 48, src_node_guid = 0x8e0, src_sqn = 86, win_msn = 0x80350d0d, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002270] received duplicat pkts, rqn = 48, src_node_guid = 0x8e0, src_sqn = 87, win_msn = 0x8035105b, len = 128, imm_data = 0, retry_cnt = 61, ft_mask = 0
+WARN: [vn002270] received duplicat pkts, rqn = 100, src_node_guid = 0x8e0, src_sqn = 87, win_msn = 0x803583bf, len = 128, imm_data = 0, retry_cnt = 61, ft_mask = 0
+WARN: [vn002270] received duplicat pkts, rqn = 61, src_node_guid = 0x8e0, src_sqn = 85, win_msn = 0x80350e81, len = 72, imm_data = 0, retry_cnt = 62, ft_mask = 0
+WARN: [vn002270] received duplicat pkts, rqn = 61, src_node_guid = 0x8e0, src_sqn = 88, win_msn = 0x80350ffe, len = 128, imm_data = 0, retry_cnt = 61, ft_mask = 0
+[6723647 ## 2025-01-25/12:00:24] receive request of kill job(bkill).

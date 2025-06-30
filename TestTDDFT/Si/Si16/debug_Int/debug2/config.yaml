@@ -1,0 +1,95 @@
+UPF_File:
+  - Si_ONCV_PBE-1.2.upf
+Mixing_Type:           anderson
+DGHybrid_Mixing_Type:  anderson
+Mixing_MaxDim:         6
+Mixing_StepLength:     0.4
+Inner_Mixing_Variable:    density
+Outer_Mixing_Variable:    density
+DFT_SCF_Outer_MaxIter:     50
+DFT_SCF_Outer_Tolerance:   1e-7
+DFT_SCF_Inner_MaxIter:     5
+DFT_SCF_Inner_Tolerance:   1e-7
+DFT_SCF_Outer_Energy_Tolerance: 1e-6
+
+Hybrid_Inner_Mixing_Variable:    densitymatrix
+Hybrid_SCF_Outer_MaxIter:     20
+Hybrid_SCF_Outer_Tolerance:   1e-6
+Hybrid_SCF_Inner_MaxIter:     30
+Hybrid_SCF_Inner_Tolerance:   1e-6
+Hybrid_SCF_Outer_Energy_Tolerance: 1e-6
+
+##Extra_States:          6
+Eig_MaxIter:           5
+Eig_Tolerance:         1e-13
+Hybrid_SCF_Phi_MaxIter:      15
+Hybrid_SCF_Phi_Tolerance:    1e-6
+
+Use_HFXFineGrid:       0
+DGHF_ISDF:             0
+Hybrid_ACE:            0
+EXX_Divergence_Type:   0
+SVD_Basis_Tolerance:   1e-20
+
+Pseudo_Type:          ONCV
+XC_Type:              XC_HYB_GGA_XC_HSE06
+Use_VLocal:            1
+Use_Atom_Density:      0
+Use_LIBXC:             1
+
+#Penalty_Alpha:        100
+
+PW_Solver:             LOBPCG
+ScaLAPACK_Block_Size:  32
+
+Ecut_Wavefunction:     30.0
+FFT_Number_Type:       even
+Density_Grid_Factor:   2.0
+LGL_Grid_Factor:       2.0
+
+Atom_Types_Num:        1
+Atom_Type:             [ 14 ]
+
+Calculate_Force_Each_SCF:    0
+
+
+Solution_Method:      diag
+
+ALB_Num:          128
+Element_Size: [1, 3, 3]
+
+Atom_Num: [       16  ]
+Super_Cell: [    10.261213283893 ,   20.5811 ,  20.5811 ]
+Atom_Red:
+- [     0.750000000   ,      0.375000000    ,     0.125000000 ]
+- [     0.750000000   ,      0.375000000    ,     0.625000000 ]
+- [     0.750000000   ,      0.875000000    ,     0.125000000 ]
+- [     0.750000000   ,      0.875000000    ,     0.625000000 ]
+- [     0.000000000   ,      0.250000000    ,     0.250000000 ]
+- [     0.000000000   ,      0.250000000    ,     0.750000000 ]
+- [     0.000000000   ,      0.750000000    ,     0.250000000 ]
+- [     0.000000000   ,      0.750000000    ,     0.750000000 ]
+- [     0.750000000   ,      0.125000000    ,     0.375000000 ]
+- [     0.750000000   ,      0.125000000    ,     0.875000000 ]
+- [     0.750000000   ,      0.625000000    ,     0.375000000 ]
+- [     0.750000000   ,      0.625000000    ,     0.875000000 ]
+- [     0.000000000   ,      0.000000000    ,     0.000000000 ]
+- [     0.000000000   ,      0.000000000    ,     0.500000000 ]
+- [     0.000000000   ,      0.500000000    ,     0.000000000 ]
+- [     0.000000000   ,      0.500000000    ,     0.500000000 ]
+- [     0.250000000   ,      0.375000000    ,     0.375000000 ]
+- [     0.250000000   ,      0.375000000    ,     0.875000000 ]
+- [     0.250000000   ,      0.875000000    ,     0.375000000 ]
+- [     0.250000000   ,      0.875000000    ,     0.875000000 ]
+- [     0.500000000   ,      0.250000000    ,     0.000000000 ]
+- [     0.500000000   ,      0.250000000    ,     0.500000000 ]
+- [     0.500000000   ,      0.750000000    ,     0.000000000 ]
+- [     0.500000000   ,      0.750000000    ,     0.500000000 ]
+- [     0.250000000   ,      0.125000000    ,     0.125000000 ]
+- [     0.250000000   ,      0.125000000    ,     0.625000000 ]
+- [     0.250000000   ,      0.625000000    ,     0.125000000 ]
+- [     0.250000000   ,      0.625000000    ,     0.625000000 ]
+- [     0.500000000   ,      0.000000000    ,     0.250000000 ]
+- [     0.500000000   ,      0.000000000    ,     0.750000000 ]
+- [     0.500000000   ,      0.500000000    ,     0.250000000 ]
+- [     0.500000000   ,      0.500000000    ,     0.750000000 ]

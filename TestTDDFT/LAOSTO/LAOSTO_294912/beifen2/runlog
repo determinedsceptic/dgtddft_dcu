@@ -1,0 +1,37 @@
+dgdft -in [inFile]
+in:             Input file (default: config.yaml)
+[0x4ffff20119e0] 
+[0x4ffff20122e8] 
+[0x4ffff20a9bf0] 
+[0x4ffff1c28c4c] 
+[0x4ffff1c28eb4] 
+[0x4ffff1c1e708] 
+[0x4ffff1c1ff5c] 
+[0x4ffff1c1f268] 
+[0x4ffff0d8a58c] 
+[0x4ffff0d7b5c8] 
+[31m[1m  SWCH Error: MYID = 33960(vn55992, CG0): Segmentation fault! Myid = 33960, pid = 1759, PC = 0x4ffff1c28c4c: <swch_catchsig()@src/mpid/ch3/channels/swch/src/ch3_init.c:1515>. [0m
+[0x4ffff20119e0] 
+[0x4ffff20122e8] 
+[0x4ffff20a9bf0] 
+[0x4ffff1c28c4c] 
+[0x4ffff1c28eb4] 
+[0x4ffff1c1e708] 
+[0x4ffff1c1ff5c] 
+[0x4ffff20119e0] 
+[0x4ffff20122e8] 
+[0x4ffff20a9bf0] 
+[31m[1m  SWCH Error: MYID = 58683(vn62744, CG3): Segmentation fault! Myid = 58683, pid = 1987, PC = 0: <swch_catchsig()@src/mpid/ch3/channels/swch/src/ch3_init.c:1515>. [0m
+[0x4ffff1c1f268] 
+[0x4ffff0d8a58c] 
+[0x4ffff0d7b5c8] 
+[31m[1m  SWCH Error: MYID = 126877(vn75452, CG1): Segmentation fault! Myid = 126877, pid = 1774, PC = 0x4ffff1c28c4c: <swch_catchsig()@src/mpid/ch3/channels/swch/src/ch3_init.c:1515>. [0m
+[0x4ffff20119e0] 
+[0x4ffff20122e8] 
+[0x4ffff20a9bf0] 
+[31m[1m  SWCH Error: MYID = 9227(vn35455, CG5): Segmentation fault! Myid = 9227, pid = 1978, PC = 0: <swch_catchsig()@src/mpid/ch3/channels/swch/src/ch3_init.c:1515>. [0m
+[0x4ffff20119e0] 
+[0x4ffff20122e8] 
+[0x4ffff20a9bf0] 
+[31m[1m  SWCH Error: MYID = 24983(vn54207, CG5): Segmentation fault! Myid = 24983, pid = 1688, PC = 0: <swch_catchsig()@src/mpid/ch3/channels/swch/src/ch3_init.c:1515>. [0m
+[6765531 ## 2025-02-08/20:04:36] receive request of kill job(bkill).

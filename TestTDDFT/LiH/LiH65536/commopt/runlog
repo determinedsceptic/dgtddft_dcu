@@ -1,0 +1,6 @@
+dgdft -in [inFile]
+in:             Input file (default: config.yaml)
+clean WaveFunction Groud
+Reduce LocalBasis
+iterMax:5000000
+[6696423 ## 2025-01-15/15:34:36] receive request of kill job(bkill).

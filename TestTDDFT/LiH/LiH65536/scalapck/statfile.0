@@ -1,0 +1,7 @@
+mpisize = 4096                
+mpirank = 0                   
+Time for reading the raw input file is 0.000279341 [s]
+
+UPF_File is not defined. 
+Use the old format of pseudopotential by defininig PeriodTable in the input file.
+This option will become deprecated in the future

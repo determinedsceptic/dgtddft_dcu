@@ -1,0 +1,195 @@
+dgdft -in [inFile]
+in:             Input file (default: config.yaml)
+clean WaveFunction Groud
+Reduce LocalBasis
+iterMax:500000
+WARN: [vn075858] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x6f7, src_guid = 0x12853, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075443] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x5c7, src_guid = 0x526b3, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075186] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x714, src_guid = 0x125b3, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn060009] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xcd8, src_guid = 0x4ea69, dst_guid = 0x12607, dst_cpu = 75270
+WARN: [vn072087] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xe33, src_guid = 0x51997, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn073816] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x2ed, src_guid = 0x12059, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn060729] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x5ad, src_guid = 0x4ed39, dst_guid = 0x1261f, dst_cpu = 75294
+WARN: [vn064872] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x48c, src_guid = 0xfd69, dst_guid = 0x12699, dst_cpu = 75416
+WARN: [vn062473] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xa09, src_guid = 0x4f409, dst_guid = 0x1269b, dst_cpu = 75418
+WARN: [vn074809] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x456, src_guid = 0x52439, dst_guid = 0x526b5, dst_cpu = 75445
+WARN: [vn033433] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xe58, src_guid = 0x48299, dst_guid = 0x5268d, dst_cpu = 75405
+WARN: [vn075416] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xa5d, src_guid = 0x12699, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075308] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xdae, src_guid = 0x1262d, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075280] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xe07, src_guid = 0x12611, dst_guid = 0xf939, dst_cpu = 63800
+WARN: [vn075411] [2025-02-08 16:39:55] resend wqe, sqn = 78, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x9cf, src_guid = 0x52693, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075375] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xc01, src_guid = 0x5266f, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075330] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xd55, src_guid = 0x12643, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075448] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xb5e, src_guid = 0x126b9, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075388] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x12, src_guid = 0x1267d, dst_guid = 0x52439, dst_cpu = 74809
+WARN: [vn075388] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x4f8, src_guid = 0x1267d, dst_guid = 0x52469, dst_cpu = 74857
+WARN: [vn075212] [2025-02-08 16:39:55] resend wqe, sqn = 76, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x42d, src_guid = 0x125cd, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075291] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x6da, src_guid = 0x5261b, dst_guid = 0x11b09, dst_cpu = 72456
+WARN: [vn075254] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xf06, src_guid = 0x125f7, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075244] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x94d, src_guid = 0x125ed, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075199] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xc73, src_guid = 0x525bf, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075210] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x154, src_guid = 0x125cb, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075257] [2025-02-08 16:39:55] resend wqe, sqn = 78, status = 0x2, opcode = 0xa, retry_cnt = 63, wrid = 0x8f5, src_guid = 0x525f9, dst_guid = 0x1267b, dst_cpu = 75386
+WARN: [vn075202] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x137, src_guid = 0x125c3, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075236] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x876, src_guid = 0x125e5, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075184] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x904, src_guid = 0x125b1, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075238] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x94a, src_guid = 0x125e7, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn068873] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xdb1, src_guid = 0x50d09, dst_guid = 0x526b5, dst_cpu = 75445
+WARN: [vn033269] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xd71, src_guid = 0x481f5, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075866] [2025-02-08 16:39:55] resend wqe, sqn = 18, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x24c, src_guid = 0x1285b, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075850] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x3f6, src_guid = 0x1284b, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075847] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xd81, src_guid = 0x52847, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075869] [2025-02-08 16:39:55] resend wqe, sqn = 112, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xaa1, src_guid = 0x5285d, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn032866] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x144, src_guid = 0x8063, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075861] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xce1, src_guid = 0x52855, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075871] [2025-02-08 16:39:55] resend wqe, sqn = 95, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x88f, src_guid = 0x5285f, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075845] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x3ab, src_guid = 0x52845, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn054937] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xb85, src_guid = 0x4d699, dst_guid = 0x5262f, dst_cpu = 75311
+WARN: [vn074649] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xbd0, src_guid = 0x52399, dst_guid = 0x12673, dst_cpu = 75378
+WARN: [vn070553] [2025-02-08 16:39:55] resend wqe, sqn = 76, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x742, src_guid = 0x51399, dst_guid = 0x526cd, dst_cpu = 75469
+WARN: [vn066512] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x235, src_guid = 0x103d1, dst_guid = 0x12699, dst_cpu = 75416
+WARN: [vn075311] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xcb7, src_guid = 0x5262f, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn071161] [2025-02-08 16:39:55] resend wqe, sqn = 80, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x92e, src_guid = 0x515f9, dst_guid = 0x52675, dst_cpu = 75381
+WARN: [vn075440] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x3b4, src_guid = 0x126b1, dst_guid = 0x52439, dst_cpu = 74809
+WARN: [vn075434] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x5b2, src_guid = 0x126ab, dst_guid = 0x12499, dst_cpu = 74904
+WARN: [vn075437] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x375, src_guid = 0x526ad, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075437] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x63f, src_guid = 0x526ad, dst_guid = 0x52439, dst_cpu = 74809
+WARN: [vn075426] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xeca, src_guid = 0x126a3, dst_guid = 0x52469, dst_cpu = 74857
+WARN: [vn075314] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x16, src_guid = 0x12633, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075456] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x372, src_guid = 0x126c1, dst_guid = 0x52439, dst_cpu = 74809
+WARN: [vn075445] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xb00, src_guid = 0x526b5, dst_guid = 0x52469, dst_cpu = 74857
+WARN: [vn075445] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xa52, src_guid = 0x526b5, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075408] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x51, src_guid = 0x12691, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn069433] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x62e, src_guid = 0x50f39, dst_guid = 0x1262d, dst_cpu = 75308
+WARN: [vn036873] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x1ce, src_guid = 0x49009, dst_guid = 0x1263b, dst_cpu = 75322
+WARN: [vn035065] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x43c, src_guid = 0x488f9, dst_guid = 0x12619, dst_cpu = 75288
+WARN: [vn075831] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x3e2, src_guid = 0x52837, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075863] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x8d5, src_guid = 0x52857, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075815] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x71b, src_guid = 0x52827, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075823] [2025-02-08 16:39:55] resend wqe, sqn = 74, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x551, src_guid = 0x5282f, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn033222] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x31f, src_guid = 0x81c7, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn066379] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x6d, src_guid = 0x5034b, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075855] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xd0d, src_guid = 0x5284f, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075818] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x60, src_guid = 0x1282b, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn033456] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x5f9, src_guid = 0x82b1, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn032948] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x92f, src_guid = 0x80b5, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn073948] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x479, src_guid = 0x120dd, dst_guid = 0x12699, dst_cpu = 75416
+WARN: [vn075389] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x8f3, src_guid = 0x5267d, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075391] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x16a, src_guid = 0x5267f, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075383] [2025-02-08 16:39:55] resend wqe, sqn = 74, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x338, src_guid = 0x52677, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075300] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x52a, src_guid = 0x12625, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075300] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xa5c, src_guid = 0x12625, dst_guid = 0xe509, dst_cpu = 58632
+WARN: [vn075424] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xb58, src_guid = 0x126a1, dst_guid = 0x52439, dst_cpu = 74809
+WARN: [vn075424] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x753, src_guid = 0x126a1, dst_guid = 0x52469, dst_cpu = 74857
+WARN: [vn075403] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x195, src_guid = 0x5268b, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075421] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xa32, src_guid = 0x5269d, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075303] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xda1, src_guid = 0x52627, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075207] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x739, src_guid = 0x525c7, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075189] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x493, src_guid = 0x525b5, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075226] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x619, src_guid = 0x125db, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075255] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xf2, src_guid = 0x525f7, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075215] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xc56, src_guid = 0x525cf, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075241] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xa3e, src_guid = 0x525e9, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075231] [2025-02-08 16:39:55] resend wqe, sqn = 76, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x97f, src_guid = 0x525df, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xf62, src_guid = 0x52609, dst_guid = 0x105fd, dst_cpu = 67068
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xbb8, src_guid = 0x52609, dst_guid = 0xf385, dst_cpu = 62340
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x4b3, src_guid = 0x52609, dst_guid = 0xff9b, dst_cpu = 65434
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x7ab, src_guid = 0x52609, dst_guid = 0x50c67, dst_cpu = 68711
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x7d0, src_guid = 0x52609, dst_guid = 0x4f933, dst_cpu = 63795
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x5b2, src_guid = 0x52609, dst_guid = 0xed27, dst_cpu = 60710
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xaaf, src_guid = 0x52609, dst_guid = 0x4e7b3, dst_cpu = 59315
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xb4c, src_guid = 0x52609, dst_guid = 0xd2bb, dst_cpu = 53946
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x7ec, src_guid = 0x52609, dst_guid = 0xd933, dst_cpu = 55602
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x466, src_guid = 0x52609, dst_guid = 0x88ed, dst_cpu = 35052
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xc40, src_guid = 0x52609, dst_guid = 0x4c943, dst_cpu = 51523
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x8f0, src_guid = 0x52609, dst_guid = 0x4d7ad, dst_cpu = 55213
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 82, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0xe78, src_guid = 0x52609, dst_guid = 0xfbe3, dst_cpu = 64482
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xa90, src_guid = 0x52609, dst_guid = 0x8bdb, dst_cpu = 35802
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xcd6, src_guid = 0x52609, dst_guid = 0x5034b, dst_cpu = 66379
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xa51, src_guid = 0x52609, dst_guid = 0xea6d, dst_cpu = 60012
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x948, src_guid = 0x52609, dst_guid = 0xdbfb, dst_cpu = 56314
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x8ad, src_guid = 0x52609, dst_guid = 0xea6d, dst_cpu = 60012
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 74, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xfc1, src_guid = 0x52609, dst_guid = 0x125fd, dst_cpu = 75260
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 76, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x8bf, src_guid = 0x52609, dst_guid = 0x125c5, dst_cpu = 75204
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 74, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x656, src_guid = 0x52609, dst_guid = 0xfbe3, dst_cpu = 64482
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 74, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x5d0, src_guid = 0x52609, dst_guid = 0x5034b, dst_cpu = 66379
+WARN: [vn075273] [2025-02-08 16:39:55] resend wqe, sqn = 76, status = 0x1, opcode = 0x18, retry_cnt = 63, wrid = 0x3b, src_guid = 0x52609, dst_guid = 0x125b9, dst_cpu = 75192
+WARN: [vn074661] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xd0f, src_guid = 0x523a5, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn074041] [2025-02-08 16:39:55] resend wqe, sqn = 74, status = 0x2, opcode = 0xa, retry_cnt = 63, wrid = 0xe23, src_guid = 0x52139, dst_guid = 0x126d3, dst_cpu = 75474
+WARN: [vn074599] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xde7, src_guid = 0x52367, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn074547] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xba5, src_guid = 0x52333, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn068115] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xd73, src_guid = 0x50a13, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn074710] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xf68, src_guid = 0x123d7, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn065229] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xc1e, src_guid = 0x4fecd, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn074761] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xfa7, src_guid = 0x52409, dst_guid = 0x12617, dst_cpu = 75286
+WARN: [vn074809] [2025-02-08 16:39:55] resend wqe, sqn = 78, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0xdfd, src_guid = 0x52439, dst_guid = 0x5269d, dst_cpu = 75421
+WARN: [vn074809] [2025-02-08 16:39:55] resend wqe, sqn = 78, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x22c, src_guid = 0x52439, dst_guid = 0x5268d, dst_cpu = 75405
+WARN: [vn075427] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x4d8, src_guid = 0x526a3, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075427] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x25d, src_guid = 0x526a3, dst_guid = 0x52439, dst_cpu = 74809
+WARN: [vn075453] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x6ba, src_guid = 0x526bd, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075453] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xba0, src_guid = 0x526bd, dst_guid = 0x52439, dst_cpu = 74809
+WARN: [vn075432] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x133, src_guid = 0x126a9, dst_guid = 0x52439, dst_cpu = 74809
+WARN: [vn075378] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xd8c, src_guid = 0x12673, dst_guid = 0xf999, dst_cpu = 63896
+WARN: [vn075378] [2025-02-08 16:39:55] resend wqe, sqn = 81, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x63a, src_guid = 0x12673, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn075443] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xda7, src_guid = 0x526b3, dst_guid = 0x52439, dst_cpu = 74809
+[0x4ffff20119e0] 
+[0x4ffff20122e8] 
+[0x4ffff20a9bf0] 
+[0x4ffff201b93c] 
+[0x4ffff201c34c] 
+[0x4ffff1fe739c] 
+[0x4ffff1feb7a8] 
+[0x4ffff1fd11bc] 
+[0x4ffff1fd1bec] 
+[0x4ffff1f100a0] 
+[31m[1m  SWCH Error: MYID = 126194(vn75322, CG2): Segmentation fault! Myid = 126194, pid = 867, PC = 0x4ffff201b93c: <swch_catchsig()@src/mpid/ch3/channels/swch/src/ch3_init.c:1515>. [0m
+[0x4ffff20119e0] 
+[0x4ffff20122e8] 
+[0x4ffff20a9bf0] 
+WARN: [vn075440] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x107, src_guid = 0x126b1, dst_guid = 0x52409, dst_cpu = 74761
+WARN: [vn068857] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x3ed, src_guid = 0x50cf9, dst_guid = 0x526a5, dst_cpu = 75429
+WARN: [vn074041] [2025-02-08 16:39:55] resend wqe, sqn = 82, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x1a2, src_guid = 0x52139, dst_guid = 0x526e5, dst_cpu = 75493
+WARN: [vn074041] [2025-02-08 16:39:55] resend wqe, sqn = 82, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xb29, src_guid = 0x52139, dst_guid = 0x126e3, dst_cpu = 75490
+WARN: [vn074041]  ########################## resend send for timeouted srdmawh, entry = 0
+WARN: [vn074041] [2025-02-08 16:39:55] resend wqe, sqn = 74, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x553, src_guid = 0x52139, dst_guid = 0x526dd, dst_cpu = 75485
+WARN: [vn074041] [2025-02-08 16:39:55] resend wqe, sqn = 74, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xf07, src_guid = 0x52139, dst_guid = 0x126e3, dst_cpu = 75490
+WARN: [vn074649] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x222, src_guid = 0x52399, dst_guid = 0x12673, dst_cpu = 75378
+WARN: [vn071177] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0, retry_cnt = 63, wrid = 0x79e, src_guid = 0x51609, dst_guid = 0x5268b, dst_cpu = 75403
+WARN: [vn075842] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xf14, src_guid = 0x12843, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075839] [2025-02-08 16:39:55] resend wqe, sqn = 79, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x9d, src_guid = 0x5283f, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn033363] [2025-02-08 16:39:55] resend wqe, sqn = 75, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xa26, src_guid = 0x48253, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075807] [2025-02-08 16:39:55] resend wqe, sqn = 76, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x883, src_guid = 0x5281f, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn032773] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x303, src_guid = 0x48005, dst_guid = 0x126c9, dst_cpu = 75464
+WARN: [vn075210] [2025-02-08 16:39:55] resend wqe, sqn = 73, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xb13, src_guid = 0x125cb, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075257] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x78f, src_guid = 0x525f9, dst_guid = 0x5264d, dst_cpu = 75341
+WARN: [vn075257] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x2, opcode = 0xa, retry_cnt = 63, wrid = 0xf93, src_guid = 0x525f9, dst_guid = 0x1263b, dst_cpu = 75322
+WARN: [vn075257]  ########################## resend send for timeouted srdmawh, entry = 0
+WARN: [vn075257] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x97e, src_guid = 0x525f9, dst_guid = 0x1264b, dst_cpu = 75338
+WARN: [vn075257] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x387, src_guid = 0x525f9, dst_guid = 0x52607, dst_cpu = 75271
+WARN: [vn075257] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x968, src_guid = 0x525f9, dst_guid = 0x52627, dst_cpu = 75303
+WARN: [vn075257] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xeb6, src_guid = 0x525f9, dst_guid = 0x5264f, dst_cpu = 75343
+WARN: [vn075257]  ########################## resend send for timeouted srdmawh, entry = 0
+WARN: [vn075257] [2025-02-08 16:39:55] resend wqe, sqn = 78, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x39c, src_guid = 0x525f9, dst_guid = 0x5266f, dst_cpu = 75375
+WARN: [vn075257] [2025-02-08 16:39:55] resend wqe, sqn = 78, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0xb06, src_guid = 0x525f9, dst_guid = 0x52667, dst_cpu = 75367
+WARN: [vn075226] [2025-02-08 16:39:55] resend wqe, sqn = 77, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x17c, src_guid = 0x125db, dst_guid = 0x52609, dst_cpu = 75273
+WARN: [vn075215] [2025-02-08 16:39:55] resend wqe, sqn = 83, status = 0x1, opcode = 0xa, retry_cnt = 63, wrid = 0x8c6, src_guid = 0x525cf, dst_guid = 0x52609, dst_cpu = 75273
+[0x4ffff20119e0] 
+[0x4ffff20122e8] 
+[0x4ffff201b93c] 
+[0x4ffff201c34c] 
+[0x4ffff1fe739c] 
+[0x4ffff1feb7a8] 
+[0x4ffff1fd11bc] 
+[0x4ffff1fd1bec] 
+[0x4ffff1f100a0] 
+[31m[1m  SWCH Error: MYID = 126577(vn75386, CG1): Segmentation fault! Myid = 126577, pid = 869, PC = 0x4ffff201b93c: <swch_catchsig()@src/mpid/ch3/channels/swch/src/ch3_init.c:1515>. [0m
+[0x4ffff20a9bf0] 
+[0x4ffff201b93c] 
+[0x4ffff201c34c] 
+[0x4ffff1fe739c] 
+[0x4ffff1feb7a8] 
+[0x4ffff1fd11bc] 
+[0x4ffff1fd1bec] 
+[0x4ffff1f100a0] 
+[31m[1m  SWCH Error: MYID = 127073(vn75474, CG5): Segmentation fault! Myid = 127073, pid = 863, PC = 0x4ffff201b93c: <swch_catchsig()@src/mpid/ch3/channels/swch/src/ch3_init.c:1515>. [0m
+[6764219 ## 2025-02-08/16:42:17] receive request of kill job(bkill).

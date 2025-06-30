@@ -1,0 +1,38 @@
+dgdft -in [inFile]
+in:             Input file (default: config.yaml)
+mpirank: 1size inbox: 67392
+mpirank: 1size outbox: 35568
+mpirank: 1size inoutput: 67392
+mpirank: 2size inbox: 67392
+mpirank: 3size inbox: 67392
+mpirank: 3size outbox: 1872
+mpirank: 3size inoutput: 67392
+mpirank: 4size inbox: 67392
+mpirank: 4size outbox: 1872
+mpirank: 4size inoutput: 67392
+mpirank: 5size inbox: 67392
+mpirank: 5size outbox: 1872
+mpirank: 5size inoutput: 67392
+mpirank: 6size inbox: 67392
+mpirank: 6size outbox: 0
+mpirank: 6size inoutput: 67392
+mpirank: 7size inbox: 67392
+mpirank: 7size outbox: 0
+mpirank: 7size inoutput: 67392
+mpirank: 8size inbox: 67392
+mpirank: 8size outbox: 0
+mpirank: 8size inoutput: 67392
+mpirank: 2size outbox: 35568
+mpirank: 2size inoutput: 67392
+mpirank: 0size inbox: 67392
+mpirank: 0size outbox: 35568
+mpirank: 0size inoutput: 67392
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value

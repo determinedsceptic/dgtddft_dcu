@@ -1,0 +1,3 @@
+dgdft -in [inFile]
+in:             Input file (default: config.yaml)
+[6765630 ## 2025-02-08/21:34:41] receive request of kill job(bkill).

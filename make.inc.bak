@@ -1,0 +1,107 @@
+#/usr/bin/bash
+
+COMPILE_MODE     = release
+USE_COMPLEX      = 0
+USE_OPENMP       = 0
+USE_PROFILE      = 0
+USE_GPU          = 0
+
+ifeq (${USE_OPENMP}, 1)
+  OPENMP_DEF   = -DOPENMP
+  OPENMP_FLAG  = -fopenmp
+endif
+ifeq (${COMPILE_MODE}, release)
+  COMPILE_DEF    = -DRELEASE
+  COMPILE_FLAG   = -O3 -w
+endif
+ifeq (${COMPILE_MODE}, debug)
+  COMPILE_DEF    = -DDEBUG=1
+  COMPILE_FLAG   = -O2 -w
+endif
+ifeq (${USE_COMPLEX}, 1)
+  SCALAR_DEF    = -DCOMPLEXSCALAR
+endif
+
+ifeq (${USE_PROFILE}, 1)
+	PROFILE_FLAG  = -g -pg
+endif
+
+ifeq (${USE_COMPLEX}, 1)
+  SCALAR_DEF    = -DCOMPLEXSCALAR
+endif
+
+ifeq (${USE_GPU}, 1)
+  HIPCC = /public/software/compiler/rocm/rocm-3.3.0/bin/hipcc
+  HIP_LIB = -L/public/software/compiler/rocm/rocm-3.3.0/lib -lhip_hcc -lhipblas -lrocfft -L/public/software/compiler/rocm/rocm-3.3.0/rocblas/lib -lrocblas
+  HIPCC_FLAG = -I/public/software/compiler/rocm/rocm-3.3.0/include -DGPU -I/public/software/compiler/rocm/rocm-3.3.0/hip/include/hip/hcc_detail/cuda -I ../include #-I/public/software/compiler/rocm/3.0/hipblas/include -I/public/software/compiler/rocm/3.0/rocfft/include
+  HIP_FLAG = -D GPU -I/public/software/compiler/rocm/rocm-3.3.0/include -I/public/software/compiler/rocm/rocm-3.3.0/hip/include/hip/hcc_detail/cuda -I ../include #-I/public/software/compiler/rocm/3.0/hipblas/include -I/public/software/compiler/rocm/3.0/rocfft/include
+endif
+
+
+DGDFT_INCLUDE    = -I${DGDFT_DIR}/include
+LIBXC_INCLUDE    = -I${LIBXC_DIR}/include
+FFTW_INCLUDE     = -I${FFTW_DIR}/include
+YAML_INCLUDE     = -I${YAML_DIR}/include
+# BOOST_INCLUDE    = -I/usr/include
+# BLAS_INCLUDE     = -I${BLAS_DIR}/include
+MKL_INCLUDE      = -I${MKL_DIR}/include
+# LAPACK_INCLUDE   = -I${LAPACK_DIR}/include
+
+INCLUDES         = ${DGDFT_INCLUDE} ${LIBXC_INCLUDE} ${FFTW_INCLUDE} ${YAML_INCLUDE} ${BOOST_INCLUDE} ${BLAS_INCLUDE} ${MKL_INCLUDE} ${HIPCC_INC}
+
+# BOOST_LIB        = -L/usr/lib64
+LIBXC_LIB        = -L/public/software/mathlib/libxc/4.3.4/intel2017/lib -lxc 
+FFTW_LIB         = -L${FFTW_DIR}/lib -lfftw3_mpi -lfftw3  -lm
+YAML_LIB         = -L${YAML_DIR}/lib64
+# BLAS_LIB         = ${BLAS_DIR}/lib/libopenblas.a
+# LAPACK_LIB       = -L${LAPACK_DIR}/lib
+# SCALAPACK_LIB    = ${SCALAPACK_DIR}/lib/libscalapack.a
+MKL_LIB      = -L${MKL_DIR}/lib/intel64 -lmkl_core -lmkl_intel_lp64  -lmkl_sequential -lmkl_blacs_openmpi_lp64  -lmkl_scalapack_lp64 -lpthread -lgfortran
+
+DGDFT_LIB    = ${DGDFT_DIR}/src/libdgdft.a
+RQRCP_LIB    = ${DGDFT_DIR}/external/rqrcp/librqrcp.a
+LBFGS_LIB    = ${DGDFT_DIR}/external/lbfgs/liblbfgs.a
+
+LIBS         = ${DGDFT_LIB} ${BOOST_LIB} ${LIBXC_LIB} ${FFTW_LIB} ${YAML_LIB} ${BLAS_LIB} ${LAPACK_LIB} ${SCALAPACK_LIB} ${RQRCP_LIB} ${LBFGS_LIB} ${HIP_LIB} ${MKL_LIB} \
+               -lstdc++ \
+               -L/usr/lib64 -lgfortran  -Wl,--no-relax 
+
+CC           = mpicc
+CXX          = mpicxx
+FC           = mpif90
+LOADER       = mpicxx
+
+AR           = ar
+ARFLAGS      = rvcu
+RANLIB       = ranlib
+RM           = rm
+RMFLAGS      = -f
+
+CFLAGS       = ${COMPILE_FLAG} ${OPENMP_FLAG} ${PROFILE_FLAG} ${INCLUDES} ${HIP_FLAG}
+FFLAGS       = ${COMPILE_FLAG} ${OPENMP_FLAG} ${PROFILE_FLAG} ${INCLUDES} 
+CXXFLAGS     = ${COMPILE_FLAG} ${OPENMP_FLAG} ${PROFILE_FLAG} ${INCLUDES} ${HIP_FLAG} -std=c++11 -fpermissive
+CCDEFS       = ${COMPILE_DEF}  ${SCALAR_DEF} ${OPENMP_DEF}
+CPPDEFS      = ${COMPILE_DEF}  ${SCALAR_DEF} ${OPENMP_DEF}
+LOADOPTS     = ${OPENMP_FLAG} ${PROFILE_FLAG} ${LIBS} 
+
+%.o: %.c
+	${CC} -c ${CFLAGS} ${CCDEFS} $< -o $@
+%.o: %.cpp
+	${CXX} -c ${CXXFLAGS} ${CPPDEFS} $< -o $@
+%.o: %.f
+	${FC} -c ${FFLAGS} $< 
+%.o: %.F
+	${FC} -c ${FFLAGS} $<
+%.o: %.f90
+	${FC} -c ${FFLAGS} $<
+%.o: %.F90
+	${FC} -c ${FFLAGS} $<
+%.o: %.cu
+	$(HIPCC) -c -fPIC -fno-gpu-rdc -amdgpu-target=gfx906 -fpermissive ${HIPCC_FLAG} $<
+
+# Generate auto-dependencies (for cpp files now)
+# %.d: %.cpp
+# 	@set -e; rm -f $@; \
+# 	$(CXX) -M $(CXXFLAGS) $< > $@.$$$$; \
+# 	sed 's,\($*\)\.o[ :]*,\1.o $@ : ,g' < $@.$$$$ > $@;\
+# 	rm -f $@.$$$$

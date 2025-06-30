@@ -1,0 +1,7 @@
+dgdft -in [inFile]
+in:             Input file (default: config.yaml)
+[0x4ffff1fdc570] 
+[0x4ffff1fdc9c8] 
+[0x4ffff2075720] 
+[0x50008fb9b408] 
+[6724398 ## 2025-01-25/23:02:06] receive request of kill job(bkill).

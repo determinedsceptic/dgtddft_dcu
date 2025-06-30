@@ -1,0 +1,363 @@
+mpisize = 12288               
+mpirank = 0                   
+Time for reading the raw input file is 0.000278204 [s]
+
+UPF_File is not defined. 
+Use the old format of pseudopotential by defininig PeriodTable in the input file.
+This option will become deprecated in the future
+Time for reading the input file is 8.00498 [s]
+
+*********************************************************************
+Common information
+*********************************************************************
+
+Super cell                           = +7.559233712000e+00 +9.675819150990e+02 +1.935163830198e+03 
+Grid Wavefunction                    = 12                  1536                2816                
+Grid Density                         = 12                  1536                2816                
+Mixing dimension                     = 1                   
+Mixing variable                      = potential           
+Mixing DFT type                      = broyden             
+Mixing Hybrid DGDFT type             = broyden             
+Mixing Steplength                    = +3.000000000000e-01
+DG InnerSCF Mixing variable          = density             
+DG OuterSCF Mixing variable          = potential           
+DG DFT OuterSCF Tolerance            = +1.000000000000e-05
+DG DFT OuterSCF Energy Tolerance     =+1.000000000000e-05
+DG DFT OuterSCF MinIter              = 3                   
+DG DFT OuterSCF MaxIter              = 50                  
+DG DFT InnerSCF Tolerance            = +1.000000000000e-05
+DG DFT InnerSCF MinIter              = 1                   
+DG DFT InnerSCF MaxIter              = 1                   
+DG Hybrid InnerSCF Tolerance         = +1.000000000000e-04
+DG Hybrid InnerSCF MinIter           = 1                   
+DG Hybrid InnerSCF MaxIter           = 3                   
+DG Hybrid OuterSCF MinIter           = 3                   
+DG Hybrid OuterSCF MaxIter           = 30                  
+DG Hybrid OuterSCF Tolerance         = +1.000000000000e-06
+DG Hybrid OuterSCF Energy Tolerance  =+1.000000000000e-04
+DG Hybrid ALBs MaxIter               = 5                   
+DG Hybrid ALBs Tolerance             = +1.000000000000e-06
+Temperature                          = +1.000000000000e-01[K]   
+au2K                                 = +3.157746700000e+05
+Tbeta                                = +3.157746700000e+06
+Temperature2                          = +1.000000000000e-01[K]   
+Extra states                         = 0                   
+Smearing scheme                      = FD                  
+PeriodTable File                     = LiHHGH.bin          
+Pseudo Type                          = HGH                 
+PW Solver                            = LOBPCG              
+XC Type                              = XC_LDA_XC_TETER93   
+Hybrid ACE                           = true    
+Hybrid DF                            = false   
+DGHF ISDF                            = false   
+DGHF ISDF Num Mu                     = +6.000000000000e+00
+Hybrid Active Init                   = false   
+Hybrid Mixing Type                   = nested              
+Hybrid DF Num Mu                     = +6.000000000000e+00
+Hybrid DF Num GaussianRandom         = +2.000000000000e+00
+Hybrid DF Tolerance                  = +1.000000000000e-20
+SCF Outer Tol                        = +1.000000000000e-08
+SCF Outer MaxIter                    = 30                  
+SCF Free Energy Per Atom Tol         = +1.000000000000e-06
+Eig Min Tolerence                    = +1.000000000000e-03
+Eig Tolerence                        = +1.000000000000e-13
+Eig MaxIter                          = 1                   
+Eig Tolerance Dyn                    = false   
+Num unused state                     = 0                   
+EcutWavefunction                     = +1.000000000000e+01
+Density GridFactor                   = +1.000000000000e+00
+Use Atom Density                     = false   
+Use VLocal                           = false   
+RestartDensity                       = false   
+RestartWfn                           = false   
+OutputDensity                        = false   
+OutputPotential                      = false   
+Number of Extra Electron             = 0                   
+
+*********************************************************************
+DGDFT information
+*********************************************************************
+
+Penalty Alpha                        = +2.000000000000e+01
+Element size                         = 1                   96                  128                 
+Wfn Elem GridSize                    = 12                  16                  22                  
+Rho Elem GridSize                    = 12                  16                  22                  
+LGL Grid size                        = 12                  16                  22                  
+LGL GridFactor                       = +1.000000000000e+00
+SVD Basis Tol                        = +1.000000000000e-20
+SCF Inner Tol                        = +1.000000000000e-04
+SCF Inner MaxIter                    = 1                   
+Solution Method   = diag                
+Number of procs for ScaLAPACK        = 12288               
+Number of procs for ScaLAPACK (PW)   = 1                   
+ScaLAPACK block                      = 32                  
+OutputALBElemLGL                   = false   
+OutputALBElemUniform               = false   
+OutputWfnExtElem                   = false   
+OutputPotExtElem                   = false   
+OutputHMatrix                      = false   
+Force each step (deprecated)       = false   
+A Posteriori error each step       = false   
+
+NumAtom = 262144              
+Atom Type and Coordinates (possibly after shifting into unit cell)
+
+
+Time for setting up the periodic table is 0.200941287214 [s]
+
+ number of atoms in extended elements 192
+ numStateTotal 128
+XC_LDA_XC_TETER93  XCId = 20
+
+Number of electrons in extend element        = 192                 
+Number of Occupied States                    = 96                  
+Computing the local pseudopotential
+Sum of Pseudocharge                          = +6.494268084059e+02
+Number of Occupied States                    = 96                  
+After adjustment, Sum of Pseudocharge        = +1.920000000000e+02
+Computing the non-local pseudopotential
+Total number of nonlocal pseudopotential = 384                 
+Time for nonlocal pseudopotential 1.3119814666
+Time for setting up extended element is 1.8811186736 [s]
+
+localNz        = 1
+localNzStart   = 0
+numAllocLocal  = 33792
+numGridLocal   = 18432
+numGridTotal   = 51904512
+ numElem = 1 96 128 
+numGridLocal   = 4224
+numGridTotal   = 51904512
+ numGrid = 12 1536 2816 
+ numGridElem = 12 16 22 
+  localNzStart 0
+  localNyStart 0
+  init complete 
+Time for Fourier grid weight = 
+Time for setting up Distributed Fourier is 215.299745284 [s]
+Number of electrons in extend element        = 262144              
+Number of Occupied States                    = 131072              
+
+Prepare the integration weights for constructing the DG matrix.
+The number of atom < Rzero = 42
+
+Atomic pseudocharge computed.
+Sum of Pseudocharge                          = +8.866840690769e+05
+numOccupiedState                             = 131072              
+After adjustment, sum of Pseudocharge        = +2.621440000000e+05
+Time for setting up the DG Hamiltonian is 405.8340299 [s]
+
+Generating initial density through linear combination of pseudocharges.
+Initial density. Sum of density      = +3.079987561466e+05
+Initial random basis functions in the extended element.
+Initial basis functions with random guess.
+Time for setting up SCFDG is 0.415252598468 [s]
+Regular DFT potential Calculations 
+call libxc for Exc -347745.863617
+Time for calculating XC is 0.00705605675466 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.813757192111
+Time for calculating Hartree is 0.815153839532 [s]
+
+Time for calculating Vtot is 0.000269436044618 [s]
+
+*********************************************************************
+Starting regular DGDFT SCF iteration.
+*********************************************************************
+
+
+*********************************************************************
+Outer SCF iteration # 1
+*********************************************************************
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 95 0 
+key 6 0 95 1 
+key 7 0 95 127 
+
+Time Comm: 0.00776258856058
+OuterSCF:: Time for updating the local potential in the extended element and the element is 0.0132988409605 [s]
+
+ The current tolerance used by the eigensolver is 1e-13
+ The target number of converged eigenvectors is 128
+
+
+After 1 iterations, LOBPCG did not converge. 
+The maximum norm of the residual is 1.04424196283
+
+The minimum norm of the residual is 0.515265943385
+
+
+ Eigensolver time = 7.8949537077 [s]
+
+ALB calculation in extended element 0 0 0 
+
+ Max residual of basis = +1.044241962829e+00
+ Avg residual of basis = +5.286646167599e-01
+
+Time for interpolating basis = 0.361906046746 [s]
+Number of significant SVD basis = 128
+Time for SVD of basis = 0.0652172248811 [s]
+
+Time for generating ALB function is 8.33023260604 [s]
+
+
+ AlltoallForward: Changing distribution of local basis functions ...  Done. ( 0.00100201088935 s)  InnermixVariable_ density
+ mixType_ broyden
+
+Inner SCF iteration #1 starts.
+
+Time for constructing the DG matrix is 122.724236137 [s]
+
+
+ Estimating the spectral bounds ... 
+ Ritz values in estimator here : 6
+ 1.537620339355e+00 7.354123055291e+00 2.255496074189e+01 3.892544487199e+01 5.196125219184e+01 6.370029107890e+01
+
+ Upper bound of spectrum = 8.082596225685e+01
+ Done. ( 8.372486360278e+01 s.)
+ Initializing eigenvectors randomly on first SCF step ...  Done. ( 4.158704553731e+00 s.)
+
+ ------------------------------- 
+ First CheFSI step for DGDFT cycle 1 of 1 . 
+
+ Filtering the eigenvectors ... (Filter order = 1)
+ Chebyshev filtering : Process 0 working on 131072 of 131072 bands.
+ Chebyshev filtering : Lower bound = 3.261895570913e+01
+                     : Upper bound = 8.082596225685e+01
+                     : a_L = 1.537620339355e+00
+ Total filtering time for 1 filter steps = 2.097974238428e+01 s.
+ Average per filter step = 2.097974238428e+01 s.
+ Eigenvector block rebuild time = 5.949828098528e-02 s.
+ Filtering completed. ( 2.110647988576e+01 s.)
+
+ Solving subspace problems using ScaLAPACK ...
+ Setting up BLACS and ScaLAPACK Process Grid ... Done. ( 9.906158619560e-02 s.)
+ ScaLAPACK will use 12288 processes.
+ ScaLAPACK process grid = 128 * 96 .
+
+ Orthonormalization step : 
+ Distributed vector to ScaLAPACK format conversion ...  Done. ( 2.523665167857e+01 s.)
+ Orthonormalizing filtered vectors ... 
+ Overlap matrix computed in : 1.590744357000e+02 s.
+ Cholesky factorization computed in : 1.411053792736e+02 s.
+ TRSM computed in : 7.617271604994e+01 s.
+ Orthonormalization steps completed ( 3.763586613194e+02 s.)
+
+ ScaLAPACK to Distributed vector format conversion ...  Done. ( 2.946321327845e+01 s.)
+ Communicating orthonormalized filtered vectors ...  Done. ( 4.693865776062e-06 s.)
+
+ Computing H * X for filtered orthonormal vectors : 
+ Hamiltonian times eigenvectors calculation time = 2.066482734564e+01 s.
+ Eigenvector block rebuild time = 6.127006141469e-02 s.
+ H * X for filtered orthonormal vectors computed . ( 2.076366623724e+01 s.)
+
+ Raleigh - Ritz step : 
+ Distributed vector to ScaLAPACK format conversion ...  Done. ( 2.515015959949e+01 s.)
+ Solving the subspace problem ... 
+ X^T(HX) computed in : 1.625579679857e+02 s.
+ Eigenvalue problem solved in : 6.812752137296e+02 s.
+ Subspace rotation step completed in : 9.333755928674e+01 s.
+ All subspace problem steps completed . ( 9.378090379685e+02 s.)
+
+ ScaLAPACK to Distributed vector format conversion ...  Done. ( 2.933931251755e+01 s.)
+ Communicating eigenvalues and eigenvectors ...  Done. ( 4.634726792574e-06 s.)
+ ------------------------------- 
+ This Chebyshev cycle took a total of 1.467002814689e+03 s.
+ ------------------------------- 
+
+ Total time for diag DG matrix via Chebyshev filtering is 1.555233701620e+03 [s]
+
+Call for Full DM After DIAG 
+InnerSCF: DIAG Time for computing full density matrix 1.555233701620e+03 [s]
+
+InnerSCF: Time for computing harris energy 3.106872946955e-02 [s]
+
+
+ Using alternate routine for electron density: 
+
+ Forming diagonal blocks of density matrix ...  Done. ( 1.343214961234e-01 s) 
+
+ Sum Rho on LGL grid (raw data) = +1.310720000000e+05
+ Sum Rho on uniform grid (interpolated) = +1.317185594011e+05
+
+InnerSCF: Time for computing density 1 in the global domain is 0.945449221879 [s]
+
+norm(MixDif)          = +2.677528533185e+03
+norm(MixOld)          = +2.681632603923e+03
+norm(out-in)/norm(in) = +9.984695626340e-01
+Time for computing the SCF residual is 0.492450224468 [s]
+
+ broyden density mixing 
+InnerSCF: Time for mixing is 0.11610950809 [s]
+
+Numer of Occupied State 131072              
+Rho factor after mixing (raw data) = +1.000000000000e+00
+Sum Rho after mixing (raw data)    = +2.621440000000e+05
+
+call libxc for Exc -232056.367677
+Exc after DIAG -232056.367677
+Time for computing Exc in the global domain is 0.245111407479 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.0774538277183
+InnerSCF: Time for computing Vhart in the global domain is 0.198722712696 [s]
+
+InnerSCF: Time for computing KSEnergy in the global domain is 0.0340240204241 [s]
+
+
+EfreeHarris       = +1.117569883016e+06[au]  
+Etot              = +1.529143166348e+06[au]  
+Efree             = +1.529143166348e+06[au]  
+Ekin              = +1.358935992867e+06[au]  
+Ehart             = -7.898888909792e+05[au]  
+EVxc              = -3.057882150761e+05[au]  
+Exc               = -2.320563676767e+05[au]  
+EVdw              = +0.000000000000e+00[au]  
+Eself             = +6.934135648975e+05[au]  
+EIonSR            = +0.000000000000e+00[au]  
+Ecor              = +1.702071734811e+05[au]  
+Fermi             = +8.838433894363e+00[au]  
+HOMO#            = +2.405060385091e+02[eV]  
+Time for this inner SCF iteration = 1685.93430612 [s]
+Time for all inner SCF iterations is 1686.22471561 [s]
+
+OUTERSCF: EfreeHarris                 = +1.117569883016e+06
+OUTERSCF: Efree                       = +1.529143166348e+06
+OUTERSCF: norm(out-in)/norm(in) = +1.046618666032e+00
+OUTERSCF: Efree diff per atom   = +1.570027478533e+00
+
+Time for this SCF iteration = 1695.1214168 [s]
+
+
+BasisLGLCpx: m: 4224n: 128
+
+
+Dx: -161887.829324         Dy: -161092.743151         Dz -325524.384981          
+
+ Time for calculating gradient of density is 0 [s]
+
+call libxc for Exc -62610.2925022
+ Time for computing Exc in the global domain is 0.0387225842569 [s]
+
+ Time for iterFFT    = 2  timeFFT      = 0.093960165279
+ Time for computing Vhart in the global domain is 0.121980533237 [s]
+
+key 0 0 0 1 
+key 1 0 0 127 
+key 2 0 1 0 
+key 3 0 1 1 
+key 4 0 1 127 
+key 5 0 95 0 
+key 6 0 95 1 
+key 7 0 95 127 
+
+Time Comm: 0.178156082518
+ Time for updating the local potential in the extended element and the element is 0.243827660568 [s]
+
+ isHybrid_ 0 isEXXActive_ 0
+ Time for UpdateDGMatrix:   0.0903273818549 [s]
+

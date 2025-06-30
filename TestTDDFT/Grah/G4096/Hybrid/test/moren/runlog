@@ -1,0 +1,2 @@
+dgdft -in [inFile]
+in:             Input file (default: config.yaml)
